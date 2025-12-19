@@ -1,0 +1,13 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Local env/secrets
+.env
+*.env
+xueqiu_crapper/.env
+
+# Generated outputs/logs
+xueqiu_crapper/output/
+xueqiu_crapper/logs/
+spread_strategy/output/
