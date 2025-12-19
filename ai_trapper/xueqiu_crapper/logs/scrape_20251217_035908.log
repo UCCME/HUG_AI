@@ -1,0 +1,94 @@
+开始批量爬取用户数据...
+用户数量: 20
+每用户页数: 2
+每页条数: 20
+基础延迟: 3.0秒
+输出格式: jsonl
+输出目录: output
+下载图片: 是
+增量更新: 是
+==================================================
+
+[1/20] 正在处理用户 1247347556...
+执行命令: python selenium_scrape.py --user 1247347556 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1247347556 数据获取完成
+
+[2/20] 正在处理用户 8152922548...
+执行命令: python selenium_scrape.py --user 8152922548 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8152922548 数据获取完成
+
+[3/20] 正在处理用户 8290096439...
+执行命令: python selenium_scrape.py --user 8290096439 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8290096439 数据获取完成
+
+[4/20] 正在处理用户 4776750571...
+执行命令: python selenium_scrape.py --user 4776750571 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 4776750571 数据获取完成
+
+[5/20] 正在处理用户 3029406972...
+执行命令: python selenium_scrape.py --user 3029406972 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 3029406972 数据获取完成
+
+[6/20] 正在处理用户 8866762335...
+执行命令: python selenium_scrape.py --user 8866762335 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8866762335 数据获取完成
+
+[7/20] 正在处理用户 9922501069...
+执行命令: python selenium_scrape.py --user 9922501069 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 9922501069 数据获取完成
+
+[8/20] 正在处理用户 1540320649...
+执行命令: python selenium_scrape.py --user 1540320649 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1540320649 数据获取完成
+
+[9/20] 正在处理用户 6146070786...
+执行命令: python selenium_scrape.py --user 6146070786 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6146070786 数据获取完成
+
+[10/20] 正在处理用户 1626966144...
+执行命令: python selenium_scrape.py --user 1626966144 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1626966144 数据获取完成
+
+[11/20] 正在处理用户 8226064047...
+执行命令: python selenium_scrape.py --user 8226064047 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8226064047 数据获取完成
+
+[12/20] 正在处理用户 1843652844...
+执行命令: python selenium_scrape.py --user 1843652844 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1843652844 数据获取完成
+
+[13/20] 正在处理用户 1658392837...
+执行命令: python selenium_scrape.py --user 1658392837 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1658392837 数据获取完成
+
+[14/20] 正在处理用户 8602695282...
+执行命令: python selenium_scrape.py --user 8602695282 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8602695282 数据获取完成
+
+[15/20] 正在处理用户 6622605342...
+执行命令: python selenium_scrape.py --user 6622605342 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6622605342 数据获取完成
+
+[16/20] 正在处理用户 4684984024...
+执行命令: python selenium_scrape.py --user 4684984024 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 4684984024 数据获取完成
+
+[17/20] 正在处理用户 6661853655...
+执行命令: python selenium_scrape.py --user 6661853655 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6661853655 数据获取完成
+
+[18/20] 正在处理用户 1636936458...
+执行命令: python selenium_scrape.py --user 1636936458 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1636936458 数据获取完成
+
+[19/20] 正在处理用户 8270588636...
+执行命令: python selenium_scrape.py --user 8270588636 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8270588636 数据获取完成
+
+[20/20] 正在处理用户 7650893043...
+执行命令: python selenium_scrape.py --user 7650893043 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 7650893043 数据获取完成
+
+==================================================
+所有用户数据获取完成!
+请查看 output 目录下的输出文件

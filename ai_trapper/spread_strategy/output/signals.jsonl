@@ -1,0 +1,2 @@
+{"date": "2025-11-26", "spread": 2.799999999999997, "action": "open", "direction": "long_spread", "size": 1.0, "reason": "spread_below_lower", "pnl_per_barrel": null, "entry_date": null, "entry_spread": null}
+{"date": "2025-11-28", "spread": 4.099999999999994, "action": "close", "direction": "flat", "size": 0.0, "reason": "take_profit_band", "pnl_per_barrel": 1.2999999999999972, "entry_date": "2025-11-26", "entry_spread": 2.799999999999997}

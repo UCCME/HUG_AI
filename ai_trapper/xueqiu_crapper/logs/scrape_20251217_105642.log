@@ -1,0 +1,130 @@
+开始批量爬取用户数据...
+用户数量: 21
+每用户页数: 2
+每页条数: 20
+基础延迟: 3.0秒
+输出格式: jsonl
+输出目录: output
+下载图片: 是
+增量更新: 是
+==================================================
+
+[1/21] 正在处理用户 1247347556...
+执行命令: python selenium_scrape.py --user 1247347556 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1247347556 数据获取完成
+
+[2/21] 正在处理用户 8152922548...
+执行命令: python selenium_scrape.py --user 8152922548 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8152922548 数据获取完成
+
+[3/21] 正在处理用户 8290096439...
+执行命令: python selenium_scrape.py --user 8290096439 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8290096439 数据获取完成
+
+[4/21] 正在处理用户 4776750571...
+执行命令: python selenium_scrape.py --user 4776750571 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 4776750571 数据获取完成
+
+[5/21] 正在处理用户 3029406972...
+执行命令: python selenium_scrape.py --user 3029406972 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 3029406972 数据获取完成
+
+[6/21] 正在处理用户 8866762335...
+执行命令: python selenium_scrape.py --user 8866762335 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8866762335 数据获取完成
+
+[7/21] 正在处理用户 9922501069...
+执行命令: python selenium_scrape.py --user 9922501069 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 9922501069 数据获取完成
+
+[8/21] 正在处理用户 1540320649...
+执行命令: python selenium_scrape.py --user 1540320649 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1540320649 数据获取完成
+
+[9/21] 正在处理用户 6146070786...
+执行命令: python selenium_scrape.py --user 6146070786 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6146070786 数据获取完成
+
+[10/21] 正在处理用户 1626966144...
+执行命令: python selenium_scrape.py --user 1626966144 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1626966144 数据获取完成
+
+[11/21] 正在处理用户 8226064047...
+执行命令: python selenium_scrape.py --user 8226064047 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8226064047 数据获取完成
+
+[12/21] 正在处理用户 1843652844...
+执行命令: python selenium_scrape.py --user 1843652844 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1843652844 数据获取完成
+
+[13/21] 正在处理用户 1658392837...
+执行命令: python selenium_scrape.py --user 1658392837 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1658392837 数据获取完成
+
+[14/21] 正在处理用户 8602695282...
+执行命令: python selenium_scrape.py --user 8602695282 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8602695282 数据获取完成
+
+[15/21] 正在处理用户 6622605342...
+执行命令: python selenium_scrape.py --user 6622605342 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6622605342 数据获取完成
+
+[16/21] 正在处理用户 4684984024...
+执行命令: python selenium_scrape.py --user 4684984024 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 4684984024 数据获取完成
+
+[17/21] 正在处理用户 6661853655...
+执行命令: python selenium_scrape.py --user 6661853655 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 6661853655 数据获取完成
+
+[18/21] 正在处理用户 1636936458...
+执行命令: python selenium_scrape.py --user 1636936458 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 1636936458 数据获取完成
+
+[19/21] 正在处理用户 8270588636...
+执行命令: python selenium_scrape.py --user 8270588636 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 8270588636 数据获取完成
+
+[20/21] 正在处理用户 7650893043...
+执行命令: python selenium_scrape.py --user 7650893043 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+用户 7650893043 数据获取完成
+
+[21/21] 正在处理用户 2347043226...
+执行命令: python selenium_scrape.py --user 2347043226 --pages 2 --count 20 --delay 3.0 --format jsonl --outdir output --download-images --incremental
+获取用户 2347043226 的数据时出错:
+STDOUT: 正在获取第 1 页数据...
+第 1 页: 获取到 21 条数据，筛选后保留 21 条
+页面间延迟 3.2 秒...
+正在获取第 2 页数据...
+第 2 页: 获取到 20 条数据，筛选后保留 20 条
+页面间延迟 5.0 秒...
+
+STDERR: Traceback (most recent call last):
+  File "D:\quant_rush\ai_trapper\xueqiu_crapper\selenium_scrape.py", line 325, in <module>
+    main()
+  File "D:\quant_rush\ai_trapper\xueqiu_crapper\selenium_scrape.py", line 311, in main
+    crawl_user(
+  File "D:\quant_rush\ai_trapper\xueqiu_crapper\selenium_scrape.py", line 281, in crawl_user
+    save_records_incremental(all_items, out_path, fmt)
+  File "D:\quant_rush\ai_trapper\xueqiu_crapper\selenium_scrape.py", line 176, in save_records_incremental
+    existing_data = load_existing_data(out_path)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\quant_rush\ai_trapper\xueqiu_crapper\selenium_scrape.py", line 167, in load_existing_data
+    existing_data.append(json.loads(line))
+                         ^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+
+继续处理下一个用户...
+
+==================================================
+所有用户数据获取完成!
+请查看 output 目录下的输出文件

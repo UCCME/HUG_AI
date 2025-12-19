@@ -1,0 +1,4 @@
+{"date": "2025-11-26", "spread": 2.799999999999997, "action": "grid_fill", "direction": "long_spread", "size": 0.02, "reason": "grid_step_1", "pnl_per_barrel": null, "entry_date": null, "entry_spread": null}
+{"date": "2025-11-27", "spread": 2.0, "action": "grid_fill", "direction": "long_spread", "size": 0.04, "reason": "grid_step_2", "pnl_per_barrel": null, "entry_date": null, "entry_spread": null}
+{"date": "2025-11-27", "spread": 2.0, "action": "grid_fill", "direction": "long_spread", "size": 0.06, "reason": "grid_step_3", "pnl_per_barrel": null, "entry_date": null, "entry_spread": null}
+{"date": "2025-11-28", "spread": 4.099999999999994, "action": "grid_flatten", "direction": "flat", "size": -0.12, "reason": "revert_to_base", "pnl_per_barrel": 0.3999999999999915, "entry_date": null, "entry_spread": null}
