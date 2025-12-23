@@ -264,6 +264,90 @@ def close_gt_open(close, open):
 def close_lt_open(close, open):
     return (pd.Series(close) < pd.Series(open)).values
 
+
+def calculate_super_trend(high, low, close, period=14, multiplier=3):
+    """
+    计算超级趋势线
+    
+    参数:
+    df: 包含OHLC数据的DataFrame
+    period: ATR计算周期，默认14
+    multiplier: ATR乘数，默认3
+    
+    返回:
+    添加了超级趋势线的DataFrame
+    """
+    # df = data.copy().reset_index()
+    df = pd.DataFrame({'High': high, 'Low': low, 'Close': close})
+
+    # 计算真实波幅(TR)
+    df['high_low'] = df['High'] - df['Low']
+    df['high_close_prev'] = abs(df['High'] - df['Close'].shift(1))
+    df['low_close_prev'] = abs(df['Low'] - df['Close'].shift(1))
+    df['TR'] = df[['high_low', 'high_close_prev', 'low_close_prev']].max(axis=1)
+    
+    # 计算ATR
+    df['ATR'] = df['TR'].rolling(window=period).mean()
+    
+    # 计算基本上下轨
+    hl2 = (df['High'] + df['Low']) / 2  # 高中点
+    df['basic_upper_band'] = hl2 + multiplier * df['ATR']
+    df['basic_lower_band'] = hl2 - multiplier * df['ATR']
+    
+    # 初始化超级趋势线列
+    df['super_trend'] = np.nan
+    df['trend_direction'] = 0
+    
+    # 设置初始值
+    df.loc[period-1, 'super_trend'] = df.loc[period-1, 'basic_upper_band']
+    df.loc[period-1, 'trend_direction'] = -1  # 初始设为下降趋势
+    
+    # 计算超级趋势线
+    for i in range(period, len(df)):
+        current_close = df.loc[i, 'Close']
+        prev_super_trend = df.loc[i-1, 'super_trend']
+        prev_trend = df.loc[i-1, 'trend_direction']
+        
+        if prev_trend == 1:  # 前一期是上升趋势
+            # 当前超级趋势线是前一期超级趋势线和当前基本下轨的最大值
+            df.loc[i, 'super_trend'] = max(
+                df.loc[i, 'basic_lower_band'], 
+                prev_super_trend
+            )
+            
+            # 检查趋势是否反转
+            if current_close < df.loc[i, 'super_trend']:
+                df.loc[i, 'trend_direction'] = -1  # 转为下降趋势
+                df.loc[i, 'super_trend'] = df.loc[i, 'basic_upper_band']
+            else:
+                df.loc[i, 'trend_direction'] = 1  # 保持上升趋势
+                
+        else:  # 前一期是下降趋势
+            # 当前超级趋势线是前一期超级趋势线和当前基本上轨的最小值
+            df.loc[i, 'super_trend'] = min(
+                df.loc[i, 'basic_upper_band'], 
+                prev_super_trend
+            )
+            
+            # 检查趋势是否反转
+            if current_close > df.loc[i, 'super_trend']:
+                df.loc[i, 'trend_direction'] = 1  # 转为上升趋势
+                df.loc[i, 'super_trend'] = df.loc[i, 'basic_lower_band']
+            else:
+                df.loc[i, 'trend_direction'] = -1  # 保持下降趋势
+    
+    # 清理临时列
+    df.drop(['high_low', 'high_close_prev', 'low_close_prev', 'TR'], axis=1, inplace=True)
+    
+    return df['super_trend'].values, df['trend_direction'].values
+
+def super_trend_values(high, low, close, period=14, multiplier=3):
+    return calculate_super_trend(high, low, close, period=14, multiplier=3)[0]
+
+def super_trend_directions(high, low, close, period=14, multiplier=3):
+    return calculate_super_trend(high, low, close, period=14, multiplier=3)[1]
+
+
 def run_lucy_strategy(data
                       # 策略参数
                         # MACD参数
@@ -387,7 +471,12 @@ def run_lucy_strategy(data
         # macd_sep_ok = data['macd_sep_ok'][-1]
         data['maDistanceOk'] = maDistanceOk(ma_fast, ma_medium)
         data['macdSepOk'] = macdSepOk(macd_line, macd_signal_line, atr_)
-        
+
+        # 超级趋势
+        super_trend, super_trend_direction = calculate_super_trend(high, low, close, st_atr_period, st_multiplier)
+        data['superTrend'] = super_trend
+        data['superTrendDirection'] = super_trend_direction
+
         # # RSI过滤
         # rsi_buy_idx = data[(data['rsi'] >= rsi_buy_min) & (data['rsi'] <= rsi_buy_max)].index
         # data.loc[rsi_buy_idx, 'rsi_buy_zone'] = True
@@ -488,6 +577,10 @@ class LucyStrategy(Strategy):
     
     # ZLSMA参数
     zlsma_length = 75
+
+    # Supertrend参数
+    st_atr_period = 10
+    st_multiplier = 2.0
     
     # UT Bot参数
     ut_atr_period = 7
@@ -499,7 +592,7 @@ class LucyStrategy(Strategy):
     turtle_volatility_factor = 2.0  # 波动性因子
     
     # 风险管理参数
-    sl_percent = 0.2  # 止损百分比
+    sl_percent = 0.15  # 止损百分比
     tp_percent = 0.5  # 止盈百分比
     min_volatility = 0.001  # 最小波动率过滤
     min_hold_period = 2  # 最小持仓周期（T+1）
@@ -531,6 +624,10 @@ class LucyStrategy(Strategy):
         
         # 计算ZLSMA
         self.zlsma = self.I(zlsma, close, self.zlsma_length)
+
+        # 计算SuperTrend
+        self.super_trend = self.I(super_trend_values, high, low, close, self.st_atr_period, self.st_multiplier)
+        self.super_trend_direction = self.I(super_trend_directions, high, low, close, self.st_atr_period, self.st_multiplier)
         
         # 计算UT Bot追踪止损线
         self.ut_trailing_stop = self.I(ut_bot_trailing_stop, close, high, low, volume,
@@ -608,22 +705,22 @@ class LucyStrategy(Strategy):
         if self.signal_bar is not None:
             signal_execution_time = (len(self.data) - self.signal_bar) >= self.signal_delay
         
-        # === 趋势判断系统 ===
-        # 均线结构趋势
-        ma_structure_bullish = (self.ma_fast[-1] > self.ma_medium[-1]) and (price > self.ma_long[-1])
-        ma_structure_bearish = (self.ma_fast[-1] < self.ma_medium[-1]) and (price < self.ma_long[-1])
+        # # === 趋势判断系统 ===
+        # # 均线结构趋势
+        # ma_structure_bullish = (self.ma_fast[-1] > self.ma_medium[-1]) and (price > self.ma_long[-1])
+        # ma_structure_bearish = (self.ma_fast[-1] < self.ma_medium[-1]) and (price < self.ma_long[-1])
         
-        # MACD动能趋势
-        macd_bullish = self.macd_line[-1] > self.macd_signal_line[-1]
-        macd_bearish = self.macd_line[-1] < self.macd_signal_line[-1]
+        # # MACD动能趋势
+        # macd_bullish = self.macd_line[-1] > self.macd_signal_line[-1]
+        # macd_bearish = self.macd_line[-1] < self.macd_signal_line[-1]
         
-        # 均线距离和MACD分离度检查
-        ma_distance_ok = self.ma_distance_ok[-1]
-        macd_sep_ok = self.macd_sep_ok[-1]
+        # # 均线距离和MACD分离度检查
+        # ma_distance_ok = self.ma_distance_ok[-1]
+        # macd_sep_ok = self.macd_sep_ok[-1]
         
-        # RSI过滤
-        rsi_buy_zone = self.rsi_buy_min <= self.rsi[-1] <= self.rsi_buy_max
-        rsi_sell_zone = self.rsi[-1] < self.rsi_sell_min or self.rsi[-1] > self.rsi_sell_max
+        # # RSI过滤
+        # rsi_buy_zone = self.rsi_buy_min <= self.rsi[-1] <= self.rsi_buy_max
+        # rsi_sell_zone = self.rsi[-1] < self.rsi_sell_min or self.rsi[-1] > self.rsi_sell_max
         
         # === 交易信号系统 ===
         # UT Bot信号
@@ -643,10 +740,10 @@ class LucyStrategy(Strategy):
         # === 最终交易决策 ===
         # 买入条件：基础多头信号 且 UT买入信号
         # buy_condition = longCond_base & ut_buy_signal
-        buy_condition = ut_buy_signal
+        buy_condition = ut_buy_signal & self.super_trend_direction[-1] == 1
         
         # 卖出条件：基础空头信号 且 UT卖出信号
-        sell_condition = ut_sell_signal
+        sell_condition = ut_sell_signal 
 
         # == 信号执行逻辑 == 
         if sell_condition and hold_condition:
