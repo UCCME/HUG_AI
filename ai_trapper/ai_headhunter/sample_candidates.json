@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Deep Learning", "NLP"],
+    "experience": 7,
+    "education": "MSc in Computer Science",
+    "location": "San Francisco, CA",
+    "summary": "Senior AI engineer with expertise in Python and machine learning. 7+ years of experience building ML models and deploying them in production environments.",
+    "profile_url": "https://linkedin.com/in/alexjohnson",
+    "current_position": "Senior AI Engineer",
+    "company": "Tech Innovations Inc.",
+    "industry": "Artificial Intelligence"
+  },
+  {
+    "name": "Maria Garcia",
+    "email": "maria.g@example.com",
+    "skills": ["Python", "Machine Learning", "PyTorch", "Computer Vision", "OpenCV"],
+    "experience": 5,
+    "education": "BSc in Software Engineering",
+    "location": "San Jose, CA",
+    "summary": "Machine learning engineer specializing in computer vision applications. Proven track record of developing and deploying image recognition systems.",
+    "profile_url": "https://linkedin.com/in/mariagarcia",
+    "current_position": "ML Engineer",
+    "company": "Vision Systems LLC",
+    "industry": "Computer Vision"
+  },
+  {
+    "name": "David Chen",
+    "email": "david.chen@example.com",
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Deep Learning", "NLP", "Cloud Computing", "AWS"],
+    "experience": 8,
+    "education": "PhD in Artificial Intelligence",
+    "location": "San Francisco, CA",
+    "summary": "Principal AI scientist with extensive experience in NLP and deep learning. Led multiple successful projects in language modeling and text generation.",
+    "profile_url": "https://linkedin.com/in/davidchen",
+    "current_position": "Principal AI Scientist",
+    "company": "AI Research Labs",
+    "industry": "Natural Language Processing"
+  },
+  {
+    "name": "Sarah Williams",
+    "email": "sarah.w@example.com",
+    "skills": ["JavaScript", "React", "Node.js", "TypeScript", "GraphQL"],
+    "experience": 6,
+    "education": "BSc in Computer Science",
+    "location": "Seattle, WA",
+    "summary": "Full-stack engineer with expertise in modern JavaScript frameworks. Experienced in building scalable web applications and leading development teams.",
+    "profile_url": "https://linkedin.com/in/sarahwilliams",
+    "current_position": "Senior Frontend Engineer",
+    "company": "WebTech Solutions",
+    "industry": "Web Development"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.b@example.com",
+    "skills": ["Java", "Spring Boot", "Microservices", "Docker", "Kubernetes", "AWS"],
+    "experience": 9,
+    "education": "MSc in Software Engineering",
+    "location": "New York, NY",
+    "summary": "Senior backend engineer with expertise in building scalable microservices architectures. Extensive experience with cloud technologies and DevOps practices.",
+    "profile_url": "https://linkedin.com/in/michaelbrown",
+    "current_position": "Principal Backend Engineer",
+    "company": "Cloud Systems Inc.",
+    "industry": "Backend Engineering"
+  }
+]

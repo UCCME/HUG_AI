@@ -1,0 +1,4 @@
+"""
+Modular ultimate strategy package.
+"""
+

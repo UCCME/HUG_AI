@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  ai-headhunter:
+    build: .
+    container_name: ai-headhunter-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - DEBUG=False
+      - DB_PATH=/app/data/candidates.db
+      - LOG_LEVEL=INFO
+      - LOG_FILE=/app/logs/ai_headhunter.log
+    restart: unless-stopped
+
+  database:
+    image: postgres:14-alpine
+    container_name: ai-headhunter-db
+    environment:
+      - POSTGRES_DB=ai_headhunter
+      - POSTGRES_USER=headhunter_user
+      - POSTGRES_PASSWORD=headhunter_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: ai-headhunter-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+  redis_data:
