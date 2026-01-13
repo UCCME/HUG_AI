@@ -11,6 +11,10 @@ class SchedulerConfig:
     # 是否只执行一次
     ONCE = False
 
+    # 日志目录与保留数量
+    LOG_DIR = "logs"
+    LOG_MAX_FILES = 50
+
 # 用户爬取配置
 class ScraperConfig:
     # 雪球大V ID 列表 (精选21个，涵盖价值、量化、宏观、科技)

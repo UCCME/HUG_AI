@@ -4,20 +4,21 @@ import time
 import datetime
 from pathlib import Path
 
-# 导入配置
+# Try to load config; fall back to defaults if missing.
 try:
     from scheduler_config import SchedulerConfig, ScraperConfig
 except ImportError:
-    # 如果配置文件不存在，使用默认配置
     class SchedulerConfig:
         INTERVAL_MINUTES = 30
         INCREMENTAL = True
         ONCE = False
+        LOG_DIR = "logs"
+        LOG_MAX_FILES = 50
 
     class ScraperConfig:
         USER_IDS = [
-            1247347556,  # 大道无形我有型 (段永平)
-            2347043226,  # 你提到的另一个用户
+            1247347556,
+            2347043226,
         ]
         PAGES = 2
         COUNT = 20
@@ -27,134 +28,128 @@ except ImportError:
         DOWNLOAD_IMAGES = True
 
 
-def scrape_with_logging(incremental=False):
+def _get_log_dir() -> Path:
+    log_dir_name = getattr(SchedulerConfig, "LOG_DIR", "logs")
+    return Path(__file__).resolve().parent / log_dir_name
+
+
+def _prune_logs(log_dir: Path, max_files: int) -> None:
+    if max_files <= 0:
+        return
+    files = sorted(log_dir.glob("scrape_*.log"), key=lambda p: p.stat().st_mtime)
+    while len(files) > max_files:
+        files.pop(0).unlink(missing_ok=True)
+
+
+def scrape_with_logging(incremental: bool = False) -> bool:
     """
-    执行数据爬取并记录日志
+    Run the scraper and persist stdout to a timestamped log file.
     """
-    # 创建日志目录
-    log_dir = Path("logs")
+    log_dir = _get_log_dir()
     log_dir.mkdir(exist_ok=True)
-    
-    # 生成日志文件名（包含时间戳）
+
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     log_file = log_dir / f"scrape_{timestamp}.log"
-    
-    print(f"开始执行定时爬取任务: {datetime.datetime.now()}")
-    print(f"日志文件: {log_file}")
-    
-    # 构建命令
-    cmd = [
-        "python", "scrape_presets.py"
-    ]
-    
+
+    base_dir = Path(__file__).resolve().parent
+    cmd = [sys.executable, "scrape_presets.py"]
+
     if incremental or SchedulerConfig.INCREMENTAL:
         cmd.append("--incremental")
-    
+
+    print(f"Starting scheduled scrape: {datetime.datetime.now()}")
+    print(f"Log file: {log_file}")
+    print("Running scraper...")
+
     try:
-        # 执行命令并捕获输出
-        print("正在执行数据爬取...")
-        with open(log_file, "w", encoding="utf-8") as log_f:
-            result = subprocess.run(
-                cmd, 
-                check=True, 
-                stdout=subprocess.PIPE, 
-                stderr=subprocess.STDOUT,
-                text=True
-            )
-            
-            # 将输出写入日志文件
-            log_f.write(result.stdout)
-            print(result.stdout)
-            
-        print(f"定时爬取任务完成: {datetime.datetime.now()}")
-        print(f"详细日志请查看: {log_file}")
+        result = subprocess.run(
+            cmd,
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            cwd=str(base_dir),
+        )
+
+        output = result.stdout or ""
+        log_file.write_text(output, encoding="utf-8")
+        print(output)
+        print(f"Scrape completed: {datetime.datetime.now()}")
+        print(f"Log written to: {log_file}")
+        _prune_logs(log_dir, int(getattr(SchedulerConfig, "LOG_MAX_FILES", 50)))
         return True
-        
-    except subprocess.CalledProcessError as e:
-        error_msg = f"执行失败:\nSTDOUT: {e.stdout}\nSTDERR: {e.stderr}"
+    except subprocess.CalledProcessError as exc:
+        stdout = exc.stdout or ""
+        stderr = exc.stderr or ""
+        error_msg = f"Scrape failed:\nSTDOUT: {stdout}\nSTDERR: {stderr}"
         print(error_msg)
-        
-        # 记录错误日志
-        with open(log_file, "w", encoding="utf-8") as log_f:
-            log_f.write(error_msg)
-            
+        log_file.write_text(error_msg, encoding="utf-8")
+        _prune_logs(log_dir, int(getattr(SchedulerConfig, "LOG_MAX_FILES", 50)))
         return False
     except FileNotFoundError:
-        error_msg = "错误：找不到 scrape_presets.py 文件，请确保在正确的目录下运行此脚本"
+        error_msg = "scrape_presets.py not found. Run from the xueqiu_crapper directory."
         print(error_msg)
-        
-        # 记录错误日志
-        with open(log_file, "w", encoding="utf-8") as log_f:
-            log_f.write(error_msg)
-            
+        log_file.write_text(error_msg, encoding="utf-8")
         sys.exit(1)
 
 
-def run_scheduler(interval_minutes=None, incremental=None):
+def run_scheduler(interval_minutes: int | None = None, incremental: bool | None = None) -> None:
     """
-    运行定时调度器
-    :param interval_minutes: 间隔时间（分钟）
-    :param incremental: 是否使用增量更新模式
+    Run scheduled scraping on a fixed interval.
     """
-    # 使用配置文件中的设置或传入的参数
     interval = interval_minutes or SchedulerConfig.INTERVAL_MINUTES
     incr_mode = incremental if incremental is not None else SchedulerConfig.INCREMENTAL
-    
-    print(f"启动定时爬取任务，间隔: {interval} 分钟")
-    print(f"增量更新模式: {'是' if incr_mode else '否'}")
-    print("按 Ctrl+C 可以停止任务")
-    
+
+    print(f"Scheduler started. Interval: {interval} minutes")
+    print(f"Incremental mode: {'on' if incr_mode else 'off'}")
+    print("Press Ctrl+C to stop.")
+
     while True:
         try:
-            # 执行爬取任务
             success = scrape_with_logging(incremental=incr_mode)
-            
+
             if success:
-                print(f"爬取成功，等待 {interval} 分钟后进行下一次爬取...")
+                print(f"Scrape success. Next run in {interval} minutes...")
             else:
-                print(f"爬取失败，仍将按计划等待 {interval} 分钟...")
-            
-            # 等待指定的时间间隔
+                print(f"Scrape failed. Next run in {interval} minutes...")
+
             time.sleep(interval * 60)
-            
         except KeyboardInterrupt:
-            print("\n收到停止信号，正在退出...")
+            print("\nStopped by user.")
             break
-        except Exception as e:
-            print(f"发生未预期的错误: {e}")
-            print(f"将继续执行下一次任务...")
+        except Exception as exc:
+            print(f"Unexpected error: {exc}")
+            print(f"Retrying in {interval} minutes...")
             time.sleep(interval * 60)
 
 
-def main():
+def main() -> None:
     import argparse
-    
-    parser = argparse.ArgumentParser(description="定时爬取雪球数据")
+
+    parser = argparse.ArgumentParser(description="Scheduled Xueqiu scraper runner")
     parser.add_argument(
-        "--interval", 
-        type=int, 
-        default=SchedulerConfig.INTERVAL_MINUTES, 
-        help="爬取间隔时间（分钟），默认30分钟"
+        "--interval",
+        type=int,
+        default=SchedulerConfig.INTERVAL_MINUTES,
+        help="Interval in minutes between runs",
     )
     parser.add_argument(
-        "--once", 
-        action="store_true", 
+        "--once",
+        action="store_true",
         default=SchedulerConfig.ONCE,
-        help="只执行一次，不循环执行"
+        help="Run only once and exit",
     )
     parser.add_argument(
         "--incremental",
         action="store_true",
         default=SchedulerConfig.INCREMENTAL,
-        help="使用增量更新模式，只获取新数据"
+        help="Enable incremental mode (append new items only)",
     )
     args = parser.parse_args()
-    
+
     if args.once:
-        # 只执行一次
         scrape_with_logging(incremental=args.incremental)
     else:
-        # 按间隔时间循环执行
         run_scheduler(args.interval, args.incremental)
 
 
