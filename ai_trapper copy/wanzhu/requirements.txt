@@ -1,0 +1,23 @@
+# 顽主杯松松策略量化系统依赖包
+
+# 核心依赖
+pandas>=1.3.0
+numpy>=1.20.0
+
+# 数据源（可选，根据需要安装）
+# tushare>=1.2.0  # Tushare 数据源，需要token
+# akshare>=1.8.0  # AKShare 数据源，免费
+
+# 配置文件支持（可选）
+# pyyaml>=5.4.0  # 支持 YAML 配置文件
+
+# 可视化（可选）
+# matplotlib>=3.3.0
+# mplfinance>=0.12.0
+
+# 回测框架（可选）
+# backtrader>=1.9.76.0
+
+# 开发工具（可选）
+# jupyter>=1.0.0
+# ipython>=7.0.0

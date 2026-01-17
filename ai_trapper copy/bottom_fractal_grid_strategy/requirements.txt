@@ -1,0 +1,6 @@
+backtrader>=1.9.76
+pandas>=1.5.0
+numpy>=1.23.0
+akshare>=1.12.0
+matplotlib>=3.5.0
+xtquant>=1.0.0

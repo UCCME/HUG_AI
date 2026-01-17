@@ -1,0 +1,4840 @@
+====================================================================================================
+                            Gold Trading Strategy - Detailed Trade Log
+                             ====================================================================================================
+
+Initial Capital: $100,000.00
+Final Capital: $90,938.27
+Total Return: -9.06%
+Total Trades: 370
+
+====================================================================================================
+
+DETAILED TRADE RECORDS:
+----------------------------------------------------------------------------------------------------
+
+Trade #1
+  Entry Date:     150
+  Exit Date:      266
+  Direction:      SHORT
+  Position Size:  13 contracts
+  Entry Price:    $1,085.25
+  Exit Price:     $1,108.12
+  P&L:            $268.50 (-2.11%)
+  Cumulative P&L: $268.50
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #2
+  Entry Date:     292
+  Exit Date:      591
+  Direction:      LONG
+  Position Size:  13 contracts
+  Entry Price:    $1,102.28
+  Exit Price:     $1,080.15
+  P&L:            $-315.77 (-2.01%)
+  Cumulative P&L: $-47.28
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #3
+  Entry Date:     722
+  Exit Date:      796
+  Direction:      LONG
+  Position Size:  13 contracts
+  Entry Price:    $1,073.79
+  Exit Price:     $1,096.43
+  P&L:            $265.81 (+2.11%)
+  Cumulative P&L: $218.54
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #4
+  Entry Date:     796
+  Exit Date:      954
+  Direction:      SHORT
+  Position Size:  13 contracts
+  Entry Price:    $1,096.43
+  Exit Price:     $1,083.92
+  P&L:            $-190.81 (+1.14%)
+  Cumulative P&L: $27.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #5
+  Entry Date:     954
+  Exit Date:      2184
+  Direction:      LONG
+  Position Size:  13 contracts
+  Entry Price:    $1,083.92
+  Exit Price:     $1,167.07
+  P&L:            $1,050.61 (+7.67%)
+  Cumulative P&L: $1,078.33
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #6
+  Entry Date:     2184
+  Exit Date:      2254
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,167.07
+  Exit Price:     $1,191.49
+  P&L:            $264.44 (-2.09%)
+  Cumulative P&L: $1,342.78
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #7
+  Entry Date:     2473
+  Exit Date:      2523
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,213.31
+  Exit Price:     $1,237.98
+  P&L:            $266.33 (-2.03%)
+  Cumulative P&L: $1,609.10
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #8
+  Entry Date:     2747
+  Exit Date:      2776
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,191.71
+  Exit Price:     $1,215.51
+  P&L:            $256.43 (+2.00%)
+  Cumulative P&L: $1,865.53
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #9
+  Entry Date:     2776
+  Exit Date:      3313
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,215.51
+  Exit Price:     $1,222.77
+  P&L:            $57.77 (-0.60%)
+  Cumulative P&L: $1,923.31
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #10
+  Entry Date:     3313
+  Exit Date:      4729
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,222.77
+  Exit Price:     $1,255.70
+  P&L:            $365.02 (+2.69%)
+  Cumulative P&L: $2,288.33
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #11
+  Entry Date:     4729
+  Exit Date:      7394
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,255.70
+  Exit Price:     $1,238.71
+  P&L:            $-233.61 (+1.35%)
+  Cumulative P&L: $2,054.72
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #12
+  Entry Date:     7394
+  Exit Date:      7485
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,238.71
+  Exit Price:     $1,277.07
+  P&L:            $429.67 (+3.10%)
+  Cumulative P&L: $2,484.39
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #13
+  Entry Date:     7485
+  Exit Date:      8613
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,277.07
+  Exit Price:     $1,270.24
+  P&L:            $-103.08 (+0.53%)
+  Cumulative P&L: $2,381.32
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #14
+  Entry Date:     8613
+  Exit Date:      9000
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,270.24
+  Exit Price:     $1,243.83
+  P&L:            $-346.77 (-2.08%)
+  Cumulative P&L: $2,034.54
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #15
+  Entry Date:     9451
+  Exit Date:      9802
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,210.03
+  Exit Price:     $1,236.92
+  P&L:            $292.99 (-2.22%)
+  Cumulative P&L: $2,327.54
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #16
+  Entry Date:     9802
+  Exit Date:      10081
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,236.92
+  Exit Price:     $1,261.89
+  P&L:            $269.35 (-2.02%)
+  Cumulative P&L: $2,596.89
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #17
+  Entry Date:     10081
+  Exit Date:      10446
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,261.89
+  Exit Price:     $1,289.01
+  P&L:            $294.50 (-2.15%)
+  Cumulative P&L: $2,891.40
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #18
+  Entry Date:     10649
+  Exit Date:      10748
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,285.38
+  Exit Price:     $1,295.24
+  P&L:            $79.96 (+0.77%)
+  Cumulative P&L: $2,971.36
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #19
+  Entry Date:     10748
+  Exit Date:      10898
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,295.24
+  Exit Price:     $1,272.43
+  P&L:            $-278.90 (+1.76%)
+  Cumulative P&L: $2,692.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #20
+  Entry Date:     10898
+  Exit Date:      11850
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,272.43
+  Exit Price:     $1,363.00
+  P&L:            $1,054.13 (+7.12%)
+  Cumulative P&L: $3,746.58
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #21
+  Entry Date:     11850
+  Exit Date:      12818
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,363.00
+  Exit Price:     $1,318.13
+  P&L:            $-522.57 (+3.29%)
+  Cumulative P&L: $3,224.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #22
+  Entry Date:     12818
+  Exit Date:      13631
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,318.13
+  Exit Price:     $1,360.37
+  P&L:            $434.71 (+3.20%)
+  Cumulative P&L: $3,658.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #23
+  Entry Date:     13631
+  Exit Date:      13925
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,360.37
+  Exit Price:     $1,347.35
+  P&L:            $-172.86 (+0.96%)
+  Cumulative P&L: $3,485.87
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #24
+  Entry Date:     13925
+  Exit Date:      14167
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,347.35
+  Exit Price:     $1,351.50
+  P&L:            $15.92 (+0.31%)
+  Cumulative P&L: $3,501.78
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #25
+  Entry Date:     14167
+  Exit Date:      14410
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,351.50
+  Exit Price:     $1,334.78
+  P&L:            $-213.29 (+1.24%)
+  Cumulative P&L: $3,288.50
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #26
+  Entry Date:     14410
+  Exit Date:      14521
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,334.78
+  Exit Price:     $1,345.69
+  P&L:            $90.40 (+0.82%)
+  Cumulative P&L: $3,378.90
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #27
+  Entry Date:     14521
+  Exit Date:      15581
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,345.69
+  Exit Price:     $1,306.88
+  P&L:            $-455.66 (+2.88%)
+  Cumulative P&L: $2,923.24
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #28
+  Entry Date:     15581
+  Exit Date:      17783
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,306.88
+  Exit Price:     $1,276.64
+  P&L:            $-360.73 (-2.31%)
+  Cumulative P&L: $2,562.52
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #29
+  Entry Date:     17783
+  Exit Date:      17974
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,276.64
+  Exit Price:     $1,251.10
+  P&L:            $-308.46 (-2.00%)
+  Cumulative P&L: $2,254.05
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #30
+  Entry Date:     18085
+  Exit Date:      19594
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,258.86
+  Exit Price:     $1,284.20
+  P&L:            $273.26 (-2.01%)
+  Cumulative P&L: $2,527.31
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #31
+  Entry Date:     19788
+  Exit Date:      20108
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,300.09
+  Exit Price:     $1,331.13
+  P&L:            $312.16 (-2.39%)
+  Cumulative P&L: $2,839.47
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #32
+  Entry Date:     20739
+  Exit Date:      20917
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,207.55
+  Exit Price:     $1,217.37
+  P&L:            $88.62 (+0.81%)
+  Cumulative P&L: $2,928.09
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #33
+  Entry Date:     20917
+  Exit Date:      22135
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,217.37
+  Exit Price:     $1,161.71
+  P&L:            $-695.80 (+4.57%)
+  Cumulative P&L: $2,232.29
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #34
+  Entry Date:     22135
+  Exit Date:      22453
+  Direction:      LONG
+  Position Size:  13 contracts
+  Entry Price:    $1,161.71
+  Exit Price:     $1,136.84
+  P&L:            $-352.87 (-2.14%)
+  Cumulative P&L: $1,879.42
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #35
+  Entry Date:     23013
+  Exit Date:      23345
+  Direction:      SHORT
+  Position Size:  13 contracts
+  Entry Price:    $1,130.87
+  Exit Price:     $1,158.25
+  P&L:            $325.83 (-2.42%)
+  Cumulative P&L: $2,205.25
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #36
+  Entry Date:     24538
+  Exit Date:      24719
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,202.60
+  Exit Price:     $1,212.66
+  P&L:            $91.62 (+0.84%)
+  Cumulative P&L: $2,296.86
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #37
+  Entry Date:     24719
+  Exit Date:      25233
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,212.66
+  Exit Price:     $1,188.47
+  P&L:            $-318.80 (+1.99%)
+  Cumulative P&L: $1,978.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #38
+  Entry Date:     25233
+  Exit Date:      25740
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,188.47
+  Exit Price:     $1,235.45
+  P&L:            $534.11 (+3.95%)
+  Cumulative P&L: $2,512.17
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #39
+  Entry Date:     25740
+  Exit Date:      26016
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,235.45
+  Exit Price:     $1,227.53
+  P&L:            $-124.50 (+0.64%)
+  Cumulative P&L: $2,387.67
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #40
+  Entry Date:     26016
+  Exit Date:      26188
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,227.53
+  Exit Price:     $1,225.86
+  P&L:            $-49.46 (-0.14%)
+  Cumulative P&L: $2,338.21
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #41
+  Entry Date:     26188
+  Exit Date:      26906
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,225.86
+  Exit Price:     $1,250.45
+  P&L:            $265.07 (-2.01%)
+  Cumulative P&L: $2,603.28
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #42
+  Entry Date:     27096
+  Exit Date:      27275
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,255.14
+  Exit Price:     $1,249.45
+  P&L:            $-98.27 (-0.45%)
+  Cumulative P&L: $2,505.01
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #43
+  Entry Date:     27275
+  Exit Date:      27342
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,249.45
+  Exit Price:     $1,239.10
+  P&L:            $-153.94 (+0.83%)
+  Cumulative P&L: $2,351.07
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #44
+  Entry Date:     27342
+  Exit Date:      27692
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,239.10
+  Exit Price:     $1,213.64
+  P&L:            $-334.65 (-2.05%)
+  Cumulative P&L: $2,016.42
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #45
+  Entry Date:     28191
+  Exit Date:      28533
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,219.87
+  Exit Price:     $1,245.52
+  P&L:            $277.91 (-2.10%)
+  Cumulative P&L: $2,294.33
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #46
+  Entry Date:     29721
+  Exit Date:      29892
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,252.09
+  Exit Price:     $1,272.65
+  P&L:            $216.18 (+1.64%)
+  Cumulative P&L: $2,510.51
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #47
+  Entry Date:     29892
+  Exit Date:      30561
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,272.65
+  Exit Price:     $1,267.47
+  P&L:            $-84.86 (+0.41%)
+  Cumulative P&L: $2,425.64
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #48
+  Entry Date:     30561
+  Exit Date:      31292
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,267.47
+  Exit Price:     $1,239.47
+  P&L:            $-335.27 (-2.21%)
+  Cumulative P&L: $2,090.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #49
+  Entry Date:     31301
+  Exit Date:      32188
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,237.51
+  Exit Price:     $1,257.93
+  P&L:            $214.85 (+1.65%)
+  Cumulative P&L: $2,305.22
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #50
+  Entry Date:     32188
+  Exit Date:      33413
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,257.93
+  Exit Price:     $1,284.01
+  P&L:            $282.14 (-2.07%)
+  Cumulative P&L: $2,587.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #51
+  Entry Date:     33434
+  Exit Date:      34034
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,289.10
+  Exit Price:     $1,257.86
+  P&L:            $-371.31 (+2.42%)
+  Cumulative P&L: $2,216.05
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #52
+  Entry Date:     34034
+  Exit Date:      34512
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,257.86
+  Exit Price:     $1,250.80
+  P&L:            $-114.74 (-0.56%)
+  Cumulative P&L: $2,101.32
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #53
+  Entry Date:     34512
+  Exit Date:      34727
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,250.80
+  Exit Price:     $1,244.01
+  P&L:            $-111.34 (+0.54%)
+  Cumulative P&L: $1,989.98
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #54
+  Entry Date:     34727
+  Exit Date:      35361
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,244.01
+  Exit Price:     $1,218.75
+  P&L:            $-332.37 (-2.03%)
+  Cumulative P&L: $1,657.61
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #55
+  Entry Date:     36649
+  Exit Date:      36774
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,250.26
+  Exit Price:     $1,255.80
+  P&L:            $36.34 (+0.44%)
+  Cumulative P&L: $1,693.95
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #56
+  Entry Date:     36774
+  Exit Date:      37238
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,255.80
+  Exit Price:     $1,266.54
+  P&L:            $90.28 (-0.86%)
+  Cumulative P&L: $1,784.23
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #57
+  Entry Date:     37238
+  Exit Date:      39154
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,266.54
+  Exit Price:     $1,317.33
+  P&L:            $529.71 (+4.01%)
+  Cumulative P&L: $2,313.93
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #58
+  Entry Date:     39154
+  Exit Date:      39386
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,317.33
+  Exit Price:     $1,330.58
+  P&L:            $116.48 (-1.01%)
+  Cumulative P&L: $2,430.41
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #59
+  Entry Date:     39386
+  Exit Date:      39647
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,330.58
+  Exit Price:     $1,353.81
+  P&L:            $225.75 (+1.75%)
+  Cumulative P&L: $2,656.16
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #60
+  Entry Date:     39647
+  Exit Date:      39685
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,353.81
+  Exit Price:     $1,346.84
+  P&L:            $-106.30 (+0.51%)
+  Cumulative P&L: $2,549.86
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #61
+  Entry Date:     39685
+  Exit Date:      39891
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,346.84
+  Exit Price:     $1,331.40
+  P&L:            $-199.13 (-1.15%)
+  Cumulative P&L: $2,350.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #62
+  Entry Date:     39891
+  Exit Date:      39961
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,331.40
+  Exit Price:     $1,323.96
+  P&L:            $-110.97 (+0.56%)
+  Cumulative P&L: $2,239.76
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #63
+  Entry Date:     39961
+  Exit Date:      40352
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,323.96
+  Exit Price:     $1,310.89
+  P&L:            $-172.61 (-0.99%)
+  Cumulative P&L: $2,067.15
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #64
+  Entry Date:     40352
+  Exit Date:      42137
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,310.89
+  Exit Price:     $1,289.44
+  P&L:            $-264.32 (+1.64%)
+  Cumulative P&L: $1,802.83
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #65
+  Entry Date:     42137
+  Exit Date:      43444
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,289.44
+  Exit Price:     $1,281.35
+  P&L:            $-117.18 (-0.63%)
+  Cumulative P&L: $1,685.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #66
+  Entry Date:     43444
+  Exit Date:      43639
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,281.35
+  Exit Price:     $1,282.04
+  P&L:            $-20.61 (-0.05%)
+  Cumulative P&L: $1,665.04
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #67
+  Entry Date:     43639
+  Exit Date:      44210
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,282.04
+  Exit Price:     $1,282.67
+  P&L:            $-21.29 (+0.05%)
+  Cumulative P&L: $1,643.75
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #68
+  Entry Date:     44210
+  Exit Date:      44362
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,282.67
+  Exit Price:     $1,279.92
+  P&L:            $-58.41 (+0.21%)
+  Cumulative P&L: $1,585.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #69
+  Entry Date:     44362
+  Exit Date:      45512
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,279.92
+  Exit Price:     $1,254.05
+  P&L:            $-312.16 (-2.02%)
+  Cumulative P&L: $1,273.18
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #70
+  Entry Date:     45541
+  Exit Date:      45824
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,246.39
+  Exit Price:     $1,244.01
+  P&L:            $-53.55 (-0.19%)
+  Cumulative P&L: $1,219.63
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #71
+  Entry Date:     45824
+  Exit Date:      45959
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,244.01
+  Exit Price:     $1,254.31
+  P&L:            $85.71 (-0.83%)
+  Cumulative P&L: $1,305.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #72
+  Entry Date:     45959
+  Exit Date:      46740
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,254.31
+  Exit Price:     $1,291.42
+  P&L:            $379.80 (+2.96%)
+  Cumulative P&L: $1,685.14
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #73
+  Entry Date:     46740
+  Exit Date:      46952
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,291.42
+  Exit Price:     $1,317.90
+  P&L:            $262.29 (-2.05%)
+  Cumulative P&L: $1,947.42
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #74
+  Entry Date:     46952
+  Exit Date:      47364
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,317.90
+  Exit Price:     $1,314.41
+  P&L:            $-67.31 (+0.26%)
+  Cumulative P&L: $1,880.12
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #75
+  Entry Date:     47364
+  Exit Date:      48431
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,314.41
+  Exit Price:     $1,362.22
+  P&L:            $495.94 (+3.64%)
+  Cumulative P&L: $2,376.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #76
+  Entry Date:     48431
+  Exit Date:      48908
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,362.22
+  Exit Price:     $1,339.39
+  P&L:            $-280.60 (+1.68%)
+  Cumulative P&L: $2,095.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #77
+  Entry Date:     48908
+  Exit Date:      49319
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,339.39
+  Exit Price:     $1,312.24
+  P&L:            $-327.52 (-2.03%)
+  Cumulative P&L: $1,767.94
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #78
+  Entry Date:     49319
+  Exit Date:      49534
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,312.24
+  Exit Price:     $1,323.99
+  P&L:            $100.12 (+0.90%)
+  Cumulative P&L: $1,868.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #79
+  Entry Date:     49534
+  Exit Date:      49778
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,323.99
+  Exit Price:     $1,351.12
+  P&L:            $268.71 (-2.05%)
+  Cumulative P&L: $2,136.77
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #80
+  Entry Date:     50586
+  Exit Date:      52650
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,314.07
+  Exit Price:     $1,335.15
+  P&L:            $202.51 (+1.60%)
+  Cumulative P&L: $2,339.28
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #81
+  Entry Date:     52650
+  Exit Date:      52995
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,335.15
+  Exit Price:     $1,321.78
+  P&L:            $-176.15 (+1.00%)
+  Cumulative P&L: $2,163.13
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #82
+  Entry Date:     52995
+  Exit Date:      53487
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,321.78
+  Exit Price:     $1,345.37
+  P&L:            $229.89 (+1.78%)
+  Cumulative P&L: $2,393.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #83
+  Entry Date:     53487
+  Exit Date:      54676
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,345.37
+  Exit Price:     $1,305.44
+  P&L:            $-467.95 (+2.97%)
+  Cumulative P&L: $1,925.07
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #84
+  Entry Date:     54676
+  Exit Date:      55363
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,305.44
+  Exit Price:     $1,321.75
+  P&L:            $150.33 (+1.25%)
+  Cumulative P&L: $2,075.40
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #85
+  Entry Date:     55363
+  Exit Date:      55500
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,321.75
+  Exit Price:     $1,302.14
+  P&L:            $-244.36 (+1.48%)
+  Cumulative P&L: $1,831.04
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #86
+  Entry Date:     55500
+  Exit Date:      56149
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,302.14
+  Exit Price:     $1,304.64
+  P&L:            $-1.20 (+0.19%)
+  Cumulative P&L: $1,829.84
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #87
+  Entry Date:     56149
+  Exit Date:      56676
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,304.64
+  Exit Price:     $1,294.94
+  P&L:            $-135.19 (+0.74%)
+  Cumulative P&L: $1,694.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #88
+  Entry Date:     56676
+  Exit Date:      57900
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,294.94
+  Exit Price:     $1,269.04
+  P&L:            $-312.82 (-2.00%)
+  Cumulative P&L: $1,381.83
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #89
+  Entry Date:     58123
+  Exit Date:      58658
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,265.15
+  Exit Price:     $1,238.51
+  P&L:            $-320.29 (-2.11%)
+  Cumulative P&L: $1,061.55
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #90
+  Entry Date:     58744
+  Exit Date:      59526
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,256.18
+  Exit Price:     $1,239.22
+  P&L:            $-213.82 (+1.35%)
+  Cumulative P&L: $847.72
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #91
+  Entry Date:     59526
+  Exit Date:      59789
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,239.22
+  Exit Price:     $1,213.66
+  P&L:            $-307.86 (-2.06%)
+  Cumulative P&L: $539.86
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #92
+  Entry Date:     59858
+  Exit Date:      60739
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,222.93
+  Exit Price:     $1,209.17
+  P&L:            $-194.14 (+1.13%)
+  Cumulative P&L: $345.72
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #93
+  Entry Date:     60739
+  Exit Date:      60797
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,209.17
+  Exit Price:     $1,211.90
+  P&L:            $3.67 (+0.23%)
+  Cumulative P&L: $349.40
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #94
+  Entry Date:     60797
+  Exit Date:      61236
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,211.90
+  Exit Price:     $1,206.68
+  P&L:            $-91.60 (+0.43%)
+  Cumulative P&L: $257.80
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #95
+  Entry Date:     61236
+  Exit Date:      61542
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,206.68
+  Exit Price:     $1,181.22
+  P&L:            $-333.87 (-2.11%)
+  Cumulative P&L: $-76.07
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #96
+  Entry Date:     61582
+  Exit Date:      61752
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,161.83
+  Exit Price:     $1,184.30
+  P&L:            $241.22 (+1.93%)
+  Cumulative P&L: $165.14
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #97
+  Entry Date:     61752
+  Exit Date:      62047
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,184.30
+  Exit Price:     $1,192.55
+  P&L:            $70.38 (-0.70%)
+  Cumulative P&L: $235.52
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #98
+  Entry Date:     62047
+  Exit Date:      62189
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,192.55
+  Exit Price:     $1,201.98
+  P&L:            $84.31 (+0.79%)
+  Cumulative P&L: $319.84
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #99
+  Entry Date:     62189
+  Exit Date:      62389
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,201.98
+  Exit Price:     $1,200.96
+  P&L:            $-41.06 (+0.08%)
+  Cumulative P&L: $278.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #100
+  Entry Date:     62389
+  Exit Date:      63380
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,200.96
+  Exit Price:     $1,205.61
+  P&L:            $26.87 (+0.39%)
+  Cumulative P&L: $305.64
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #101
+  Entry Date:     63380
+  Exit Date:      64008
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,205.61
+  Exit Price:     $1,192.84
+  P&L:            $-181.87 (+1.06%)
+  Cumulative P&L: $123.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #102
+  Entry Date:     64008
+  Exit Date:      64656
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,192.84
+  Exit Price:     $1,205.59
+  P&L:            $124.07 (+1.07%)
+  Cumulative P&L: $247.84
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #103
+  Entry Date:     64656
+  Exit Date:      64979
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,205.59
+  Exit Price:     $1,196.09
+  P&L:            $-142.71 (+0.79%)
+  Cumulative P&L: $105.13
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #104
+  Entry Date:     64979
+  Exit Date:      65282
+  Direction:      LONG
+  Position Size:  12 contracts
+  Entry Price:    $1,196.09
+  Exit Price:     $1,202.74
+  P&L:            $50.93 (+0.56%)
+  Cumulative P&L: $156.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #105
+  Entry Date:     65282
+  Exit Date:      65457
+  Direction:      SHORT
+  Position Size:  12 contracts
+  Entry Price:    $1,202.74
+  Exit Price:     $1,227.67
+  P&L:            $269.70 (-2.07%)
+  Cumulative P&L: $425.76
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #106
+  Entry Date:     65464
+  Exit Date:      66942
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,231.46
+  Exit Price:     $1,225.74
+  P&L:            $-89.89 (+0.46%)
+  Cumulative P&L: $335.87
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #107
+  Entry Date:     66942
+  Exit Date:      67322
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,225.74
+  Exit Price:     $1,201.01
+  P&L:            $-298.45 (-2.02%)
+  Cumulative P&L: $37.42
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #108
+  Entry Date:     67723
+  Exit Date:      68701
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,219.64
+  Exit Price:     $1,235.83
+  P&L:            $150.90 (+1.33%)
+  Cumulative P&L: $188.32
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #109
+  Entry Date:     68701
+  Exit Date:      69851
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,235.83
+  Exit Price:     $1,260.57
+  P&L:            $244.41 (-2.00%)
+  Cumulative P&L: $432.73
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #110
+  Entry Date:     70109
+  Exit Date:      71982
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,266.75
+  Exit Price:     $1,299.84
+  P&L:            $335.39 (+2.61%)
+  Cumulative P&L: $768.12
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #111
+  Entry Date:     71982
+  Exit Date:      72968
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,299.84
+  Exit Price:     $1,306.80
+  P&L:            $47.81 (-0.54%)
+  Cumulative P&L: $815.93
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #112
+  Entry Date:     72968
+  Exit Date:      73374
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,306.80
+  Exit Price:     $1,321.56
+  P&L:            $133.29 (+1.13%)
+  Cumulative P&L: $949.22
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #113
+  Entry Date:     73374
+  Exit Date:      73581
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,321.56
+  Exit Price:     $1,341.93
+  P&L:            $194.55 (-1.54%)
+  Cumulative P&L: $1,143.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #114
+  Entry Date:     73581
+  Exit Date:      74164
+  Direction:      LONG
+  Position Size:  10 contracts
+  Entry Price:    $1,341.93
+  Exit Price:     $1,313.99
+  P&L:            $-305.68 (-2.08%)
+  Cumulative P&L: $838.09
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #115
+  Entry Date:     74225
+  Exit Date:      74440
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,309.22
+  Exit Price:     $1,282.70
+  P&L:            $-319.94 (-2.03%)
+  Cumulative P&L: $518.15
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #116
+  Entry Date:     74680
+  Exit Date:      75030
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,292.75
+  Exit Price:     $1,303.01
+  P&L:            $84.19 (-0.79%)
+  Cumulative P&L: $602.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #117
+  Entry Date:     75030
+  Exit Date:      75413
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,303.01
+  Exit Price:     $1,308.07
+  P&L:            $26.88 (+0.39%)
+  Cumulative P&L: $629.23
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #118
+  Entry Date:     75413
+  Exit Date:      75735
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,308.07
+  Exit Price:     $1,318.96
+  P&L:            $90.77 (-0.83%)
+  Cumulative P&L: $720.00
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #119
+  Entry Date:     75735
+  Exit Date:      75945
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,318.96
+  Exit Price:     $1,291.24
+  P&L:            $-333.33 (-2.10%)
+  Cumulative P&L: $386.67
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #120
+  Entry Date:     75945
+  Exit Date:      76031
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,291.24
+  Exit Price:     $1,299.32
+  P&L:            $60.29 (+0.63%)
+  Cumulative P&L: $446.97
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #121
+  Entry Date:     76031
+  Exit Date:      76397
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,299.32
+  Exit Price:     $1,284.26
+  P&L:            $-193.91 (+1.16%)
+  Cumulative P&L: $253.05
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #122
+  Entry Date:     76397
+  Exit Date:      76582
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,284.26
+  Exit Price:     $1,303.24
+  P&L:            $180.11 (+1.48%)
+  Cumulative P&L: $433.16
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #123
+  Entry Date:     76582
+  Exit Date:      78331
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,303.24
+  Exit Price:     $1,277.64
+  P&L:            $-309.71 (+1.96%)
+  Cumulative P&L: $123.45
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #124
+  Entry Date:     78331
+  Exit Date:      78790
+  Direction:      LONG
+  Position Size:  11 contracts
+  Entry Price:    $1,277.64
+  Exit Price:     $1,291.47
+  P&L:            $123.72 (+1.08%)
+  Cumulative P&L: $247.17
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #125
+  Entry Date:     78790
+  Exit Date:      80148
+  Direction:      SHORT
+  Position Size:  11 contracts
+  Entry Price:    $1,291.47
+  Exit Price:     $1,317.97
+  P&L:            $262.50 (-2.05%)
+  Cumulative P&L: $509.67
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #126
+  Entry Date:     80222
+  Exit Date:      80957
+  Direction:      SHORT
+  Position Size:  10 contracts
+  Entry Price:    $1,326.21
+  Exit Price:     $1,353.81
+  P&L:            $248.92 (-2.08%)
+  Cumulative P&L: $758.60
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #127
+  Entry Date:     81400
+  Exit Date:      81590
+  Direction:      SHORT
+  Position Size:  10 contracts
+  Entry Price:    $1,407.15
+  Exit Price:     $1,436.17
+  P&L:            $261.48 (-2.06%)
+  Cumulative P&L: $1,020.08
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #128
+  Entry Date:     81859
+  Exit Date:      83403
+  Direction:      SHORT
+  Position Size:  10 contracts
+  Entry Price:    $1,422.49
+  Exit Price:     $1,417.76
+  P&L:            $-75.66 (+0.33%)
+  Cumulative P&L: $944.42
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #129
+  Entry Date:     83403
+  Exit Date:      83842
+  Direction:      LONG
+  Position Size:  10 contracts
+  Entry Price:    $1,417.76
+  Exit Price:     $1,424.49
+  P&L:            $38.81 (+0.47%)
+  Cumulative P&L: $983.23
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #130
+  Entry Date:     83842
+  Exit Date:      84239
+  Direction:      SHORT
+  Position Size:  10 contracts
+  Entry Price:    $1,424.49
+  Exit Price:     $1,454.15
+  P&L:            $267.52 (-2.08%)
+  Cumulative P&L: $1,250.75
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #131
+  Entry Date:     84459
+  Exit Date:      84817
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,497.95
+  Exit Price:     $1,529.63
+  P&L:            $257.59 (-2.11%)
+  Cumulative P&L: $1,508.33
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #132
+  Entry Date:     84832
+  Exit Date:      84834
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,518.09
+  Exit Price:     $1,486.12
+  P&L:            $-314.48 (-2.11%)
+  Cumulative P&L: $1,193.85
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #133
+  Entry Date:     84834
+  Exit Date:      85576
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,486.12
+  Exit Price:     $1,525.61
+  P&L:            $327.95 (+2.66%)
+  Cumulative P&L: $1,521.80
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #134
+  Entry Date:     85576
+  Exit Date:      85954
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,525.61
+  Exit Price:     $1,527.17
+  P&L:            $-13.45 (-0.10%)
+  Cumulative P&L: $1,508.35
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #135
+  Entry Date:     85954
+  Exit Date:      86602
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,527.17
+  Exit Price:     $1,496.09
+  P&L:            $-306.65 (-2.04%)
+  Cumulative P&L: $1,201.70
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #136
+  Entry Date:     86972
+  Exit Date:      87679
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,511.39
+  Exit Price:     $1,504.55
+  P&L:            $-88.64 (+0.45%)
+  Cumulative P&L: $1,113.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #137
+  Entry Date:     87679
+  Exit Date:      87951
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,504.55
+  Exit Price:     $1,474.29
+  P&L:            $-298.88 (-2.01%)
+  Cumulative P&L: $814.19
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #138
+  Entry Date:     88482
+  Exit Date:      88959
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,501.13
+  Exit Price:     $1,483.35
+  P&L:            $-186.72 (+1.18%)
+  Cumulative P&L: $627.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #139
+  Entry Date:     88959
+  Exit Date:      89690
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,483.35
+  Exit Price:     $1,513.55
+  P&L:            $244.56 (+2.04%)
+  Cumulative P&L: $872.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #140
+  Entry Date:     89690
+  Exit Date:      90514
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,513.55
+  Exit Price:     $1,463.50
+  P&L:            $-476.79 (+3.31%)
+  Cumulative P&L: $395.23
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #141
+  Entry Date:     90514
+  Exit Date:      91968
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,463.50
+  Exit Price:     $1,466.33
+  P&L:            $-0.92 (+0.19%)
+  Cumulative P&L: $394.30
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #142
+  Entry Date:     91968
+  Exit Date:      93135
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,466.33
+  Exit Price:     $1,472.06
+  P&L:            $25.07 (-0.39%)
+  Cumulative P&L: $419.38
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #143
+  Entry Date:     93135
+  Exit Date:      93899
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,472.06
+  Exit Price:     $1,528.04
+  P&L:            $476.32 (+3.80%)
+  Cumulative P&L: $895.69
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #144
+  Entry Date:     93899
+  Exit Date:      94024
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,528.04
+  Exit Price:     $1,574.97
+  P&L:            $394.02 (-3.07%)
+  Cumulative P&L: $1,289.71
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #145
+  Entry Date:     94211
+  Exit Date:      94330
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,595.00
+  Exit Price:     $1,540.52
+  P&L:            $-518.05 (+3.42%)
+  Cumulative P&L: $771.66
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #146
+  Entry Date:     94330
+  Exit Date:      94970
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,540.52
+  Exit Price:     $1,561.06
+  P&L:            $156.76 (+1.33%)
+  Cumulative P&L: $928.42
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #147
+  Entry Date:     94970
+  Exit Date:      96003
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,561.06
+  Exit Price:     $1,557.49
+  P&L:            $-60.16 (+0.23%)
+  Cumulative P&L: $868.26
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #148
+  Entry Date:     96003
+  Exit Date:      97151
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,557.49
+  Exit Price:     $1,631.24
+  P&L:            $634.39 (+4.74%)
+  Cumulative P&L: $1,502.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #149
+  Entry Date:     97151
+  Exit Date:      97212
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,631.24
+  Exit Price:     $1,673.31
+  P&L:            $309.79 (-2.58%)
+  Cumulative P&L: $1,812.43
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #150
+  Entry Date:     98155
+  Exit Date:      98448
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,662.54
+  Exit Price:     $1,626.63
+  P&L:            $-313.31 (-2.16%)
+  Cumulative P&L: $1,499.13
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #151
+  Entry Date:     98552
+  Exit Date:      98619
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,531.76
+  Exit Price:     $1,477.49
+  P&L:            $-515.02 (-3.54%)
+  Cumulative P&L: $984.10
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #152
+  Entry Date:     98623
+  Exit Date:      98723
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,461.72
+  Exit Price:     $1,533.97
+  P&L:            $622.64 (+4.94%)
+  Cumulative P&L: $1,606.74
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #153
+  Entry Date:     98723
+  Exit Date:      98853
+  Direction:      SHORT
+  Position Size:  9 contracts
+  Entry Price:    $1,533.97
+  Exit Price:     $1,466.52
+  P&L:            $-633.45 (+4.40%)
+  Cumulative P&L: $973.29
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #154
+  Entry Date:     98853
+  Exit Date:      99137
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,466.52
+  Exit Price:     $1,584.79
+  P&L:            $1,035.90 (+8.06%)
+  Cumulative P&L: $2,009.20
+  Exit Reason:    止盈
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #155
+  Entry Date:     99502
+  Exit Date:      99592
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,627.07
+  Exit Price:     $1,600.44
+  P&L:            $-238.65 (+1.64%)
+  Cumulative P&L: $1,770.55
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #156
+  Entry Date:     99592
+  Exit Date:      100356
+  Direction:      LONG
+  Position Size:  9 contracts
+  Entry Price:    $1,600.44
+  Exit Price:     $1,714.38
+  P&L:            $994.60 (+7.12%)
+  Cumulative P&L: $2,765.15
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #157
+  Entry Date:     100356
+  Exit Date:      101300
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,714.38
+  Exit Price:     $1,706.52
+  P&L:            $-90.18 (+0.46%)
+  Cumulative P&L: $2,674.97
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #158
+  Entry Date:     101300
+  Exit Date:      101598
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,706.52
+  Exit Price:     $1,672.29
+  P&L:            $-300.60 (-2.01%)
+  Cumulative P&L: $2,374.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #159
+  Entry Date:     102009
+  Exit Date:      102581
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,714.82
+  Exit Price:     $1,749.59
+  P&L:            $250.17 (-2.03%)
+  Cumulative P&L: $2,624.54
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #160
+  Entry Date:     102988
+  Exit Date:      103850
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,737.20
+  Exit Price:     $1,712.80
+  P&L:            $-222.60 (+1.40%)
+  Cumulative P&L: $2,401.93
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #161
+  Entry Date:     103850
+  Exit Date:      103916
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,712.80
+  Exit Price:     $1,675.51
+  P&L:            $-325.13 (-2.18%)
+  Cumulative P&L: $2,076.80
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #162
+  Entry Date:     104356
+  Exit Date:      104634
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,735.82
+  Exit Price:     $1,714.99
+  P&L:            $-194.08 (+1.20%)
+  Cumulative P&L: $1,882.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #163
+  Entry Date:     104634
+  Exit Date:      105095
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,714.99
+  Exit Price:     $1,778.10
+  P&L:            $476.43 (+3.68%)
+  Cumulative P&L: $2,359.16
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #164
+  Entry Date:     105095
+  Exit Date:      106013
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,778.10
+  Exit Price:     $1,813.72
+  P&L:            $255.94 (-2.00%)
+  Cumulative P&L: $2,615.10
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #165
+  Entry Date:     106647
+  Exit Date:      106853
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,804.70
+  Exit Price:     $1,840.83
+  P&L:            $259.59 (-2.00%)
+  Cumulative P&L: $2,874.68
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #166
+  Entry Date:     106963
+  Exit Date:      107152
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,872.89
+  Exit Price:     $1,911.30
+  P&L:            $242.11 (-2.05%)
+  Cumulative P&L: $3,116.79
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #167
+  Entry Date:     107244
+  Exit Date:      107767
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,954.33
+  Exit Price:     $1,993.97
+  P&L:            $249.56 (-2.03%)
+  Cumulative P&L: $3,366.36
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #168
+  Entry Date:     107771
+  Exit Date:      107829
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,997.97
+  Exit Price:     $2,039.39
+  P&L:            $261.39 (-2.07%)
+  Cumulative P&L: $3,627.75
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #169
+  Entry Date:     107829
+  Exit Date:      108219
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $2,039.39
+  Exit Price:     $1,942.23
+  P&L:            $-707.31 (+4.76%)
+  Cumulative P&L: $2,920.44
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #170
+  Entry Date:     108219
+  Exit Date:      108265
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,942.23
+  Exit Price:     $1,900.45
+  P&L:            $-319.07 (-2.15%)
+  Cumulative P&L: $2,601.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #171
+  Entry Date:     109557
+  Exit Date:      110876
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,985.41
+  Exit Price:     $1,892.23
+  P&L:            $-678.75 (+4.69%)
+  Cumulative P&L: $1,922.62
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #172
+  Entry Date:     110876
+  Exit Date:      111114
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,892.23
+  Exit Price:     $1,851.73
+  P&L:            $-309.42 (-2.14%)
+  Cumulative P&L: $1,613.19
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #173
+  Entry Date:     111918
+  Exit Date:      111942
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,876.17
+  Exit Price:     $1,882.67
+  P&L:            $19.14 (+0.35%)
+  Cumulative P&L: $1,632.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #174
+  Entry Date:     111942
+  Exit Date:      112158
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,882.67
+  Exit Price:     $1,920.84
+  P&L:            $240.30 (-2.03%)
+  Cumulative P&L: $1,872.64
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #175
+  Entry Date:     112345
+  Exit Date:      113911
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,897.11
+  Exit Price:     $1,944.11
+  P&L:            $301.78 (+2.48%)
+  Cumulative P&L: $2,174.42
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #176
+  Entry Date:     113911
+  Exit Date:      114081
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,944.11
+  Exit Price:     $1,909.65
+  P&L:            $-267.96 (+1.77%)
+  Cumulative P&L: $1,906.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #177
+  Entry Date:     114081
+  Exit Date:      114092
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,909.65
+  Exit Price:     $1,863.30
+  P&L:            $-350.54 (-2.43%)
+  Cumulative P&L: $1,555.93
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #178
+  Entry Date:     114560
+  Exit Date:      115359
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,895.27
+  Exit Price:     $1,782.08
+  P&L:            $-817.28 (+5.97%)
+  Cumulative P&L: $738.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #179
+  Entry Date:     115359
+  Exit Date:      115520
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,782.08
+  Exit Price:     $1,806.79
+  P&L:            $168.77 (+1.39%)
+  Cumulative P&L: $907.42
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #180
+  Entry Date:     115520
+  Exit Date:      115763
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,806.79
+  Exit Price:     $1,844.36
+  P&L:            $237.17 (-2.08%)
+  Cumulative P&L: $1,144.59
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #181
+  Entry Date:     115904
+  Exit Date:      116041
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,862.35
+  Exit Price:     $1,862.28
+  P&L:            $-26.56 (+0.00%)
+  Cumulative P&L: $1,118.03
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #182
+  Entry Date:     116041
+  Exit Date:      116345
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,862.28
+  Exit Price:     $1,820.75
+  P&L:            $-316.20 (-2.23%)
+  Cumulative P&L: $801.83
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #183
+  Entry Date:     116412
+  Exit Date:      116608
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,834.71
+  Exit Price:     $1,871.70
+  P&L:            $232.73 (-2.02%)
+  Cumulative P&L: $1,034.55
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #184
+  Entry Date:     117179
+  Exit Date:      117508
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,893.46
+  Exit Price:     $1,934.89
+  P&L:            $262.92 (-2.19%)
+  Cumulative P&L: $1,297.47
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #185
+  Entry Date:     118004
+  Exit Date:      118205
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,848.67
+  Exit Price:     $1,846.93
+  P&L:            $-38.04 (+0.09%)
+  Cumulative P&L: $1,259.44
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #186
+  Entry Date:     118205
+  Exit Date:      118572
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,846.93
+  Exit Price:     $1,847.85
+  P&L:            $-19.43 (+0.05%)
+  Cumulative P&L: $1,240.01
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #187
+  Entry Date:     118572
+  Exit Date:      118758
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,847.85
+  Exit Price:     $1,860.85
+  P&L:            $64.95 (-0.70%)
+  Cumulative P&L: $1,304.95
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #188
+  Entry Date:     118758
+  Exit Date:      119586
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,860.85
+  Exit Price:     $1,822.88
+  P&L:            $-291.31 (-2.04%)
+  Cumulative P&L: $1,013.64
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #189
+  Entry Date:     119586
+  Exit Date:      119634
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,822.88
+  Exit Price:     $1,785.83
+  P&L:            $-284.35 (-2.03%)
+  Cumulative P&L: $729.29
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #190
+  Entry Date:     119862
+  Exit Date:      121474
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,841.35
+  Exit Price:     $1,691.10
+  P&L:            $-1,075.43 (+8.16%)
+  Cumulative P&L: $-346.13
+  Exit Reason:    止盈
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #191
+  Entry Date:     122025
+  Exit Date:      123023
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,722.82
+  Exit Price:     $1,709.34
+  P&L:            $-135.19 (+0.78%)
+  Cumulative P&L: $-481.32
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #192
+  Entry Date:     123023
+  Exit Date:      123216
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,709.34
+  Exit Price:     $1,708.60
+  P&L:            $-33.26 (-0.04%)
+  Cumulative P&L: $-514.58
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #193
+  Entry Date:     123216
+  Exit Date:      123486
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,708.60
+  Exit Price:     $1,743.46
+  P&L:            $250.98 (-2.04%)
+  Cumulative P&L: $-263.60
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #194
+  Entry Date:     123526
+  Exit Date:      124211
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,737.27
+  Exit Price:     $1,782.52
+  P&L:            $333.48 (+2.60%)
+  Cumulative P&L: $69.88
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #195
+  Entry Date:     124211
+  Exit Date:      125555
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,782.52
+  Exit Price:     $1,819.45
+  P&L:            $233.04 (-2.07%)
+  Cumulative P&L: $302.92
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #196
+  Entry Date:     126029
+  Exit Date:      126192
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,833.69
+  Exit Price:     $1,871.79
+  P&L:            $240.49 (-2.08%)
+  Cumulative P&L: $543.42
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #197
+  Entry Date:     126320
+  Exit Date:      127426
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,856.47
+  Exit Price:     $1,894.17
+  P&L:            $237.38 (+2.03%)
+  Cumulative P&L: $780.80
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #198
+  Entry Date:     127426
+  Exit Date:      127926
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,894.17
+  Exit Price:     $1,863.42
+  P&L:            $-241.34 (+1.62%)
+  Cumulative P&L: $539.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #199
+  Entry Date:     127926
+  Exit Date:      128083
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,863.42
+  Exit Price:     $1,858.79
+  P&L:            $-58.43 (-0.25%)
+  Cumulative P&L: $481.03
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #200
+  Entry Date:     128083
+  Exit Date:      128209
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,858.79
+  Exit Price:     $1,813.13
+  P&L:            $-345.00 (+2.46%)
+  Cumulative P&L: $136.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #201
+  Entry Date:     128209
+  Exit Date:      128244
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,813.13
+  Exit Price:     $1,773.48
+  P&L:            $-302.38 (-2.19%)
+  Cumulative P&L: $-166.36
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #202
+  Entry Date:     128809
+  Exit Date:      129580
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,780.98
+  Exit Price:     $1,817.40
+  P&L:            $229.50 (-2.04%)
+  Cumulative P&L: $63.14
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #203
+  Entry Date:     130068
+  Exit Date:      131512
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,829.56
+  Exit Price:     $1,795.02
+  P&L:            $-266.91 (+1.89%)
+  Cumulative P&L: $-203.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #204
+  Entry Date:     131512
+  Exit Date:      131554
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,795.02
+  Exit Price:     $1,754.34
+  P&L:            $-309.32 (-2.27%)
+  Cumulative P&L: $-513.09
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #205
+  Entry Date:     131556
+  Exit Date:      131762
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,692.30
+  Exit Price:     $1,734.47
+  P&L:            $309.61 (+2.49%)
+  Cumulative P&L: $-203.48
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #206
+  Entry Date:     131762
+  Exit Date:      131985
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,734.47
+  Exit Price:     $1,772.50
+  P&L:            $275.88 (-2.19%)
+  Cumulative P&L: $72.40
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #207
+  Entry Date:     132309
+  Exit Date:      132917
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,775.56
+  Exit Price:     $1,816.90
+  P&L:            $263.94 (+2.33%)
+  Cumulative P&L: $336.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #208
+  Entry Date:     132917
+  Exit Date:      133499
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,816.90
+  Exit Price:     $1,818.77
+  P&L:            $-12.37 (-0.10%)
+  Cumulative P&L: $323.97
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #209
+  Entry Date:     133499
+  Exit Date:      134159
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,818.77
+  Exit Price:     $1,782.11
+  P&L:            $-281.57 (-2.02%)
+  Cumulative P&L: $42.40
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #210
+  Entry Date:     134169
+  Exit Date:      134680
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,770.23
+  Exit Price:     $1,750.24
+  P&L:            $-164.43 (-1.13%)
+  Cumulative P&L: $-122.03
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #211
+  Entry Date:     134680
+  Exit Date:      135247
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,750.24
+  Exit Price:     $1,748.99
+  P&L:            $-37.98 (+0.07%)
+  Cumulative P&L: $-160.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #212
+  Entry Date:     135247
+  Exit Date:      135595
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,748.99
+  Exit Price:     $1,759.53
+  P&L:            $56.17 (+0.60%)
+  Cumulative P&L: $-103.85
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #213
+  Entry Date:     135595
+  Exit Date:      135921
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,759.53
+  Exit Price:     $1,794.88
+  P&L:            $254.08 (-2.01%)
+  Cumulative P&L: $150.23
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #214
+  Entry Date:     135921
+  Exit Date:      136072
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,794.88
+  Exit Price:     $1,786.77
+  P&L:            $-81.78 (+0.45%)
+  Cumulative P&L: $68.45
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #215
+  Entry Date:     136072
+  Exit Date:      137379
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,786.77
+  Exit Price:     $1,788.13
+  P&L:            $-15.51 (+0.08%)
+  Cumulative P&L: $52.93
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #216
+  Entry Date:     137379
+  Exit Date:      137565
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,788.13
+  Exit Price:     $1,824.46
+  P&L:            $228.77 (-2.03%)
+  Cumulative P&L: $281.70
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #217
+  Entry Date:     137750
+  Exit Date:      139928
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,857.86
+  Exit Price:     $1,767.72
+  P&L:            $-655.73 (+4.85%)
+  Cumulative P&L: $-374.03
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #218
+  Entry Date:     139928
+  Exit Date:      140179
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,767.72
+  Exit Price:     $1,809.16
+  P&L:            $264.75 (+2.34%)
+  Cumulative P&L: $-109.28
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #219
+  Entry Date:     140179
+  Exit Date:      141109
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,809.16
+  Exit Price:     $1,812.72
+  P&L:            $-0.46 (-0.20%)
+  Cumulative P&L: $-109.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #220
+  Entry Date:     141109
+  Exit Date:      141684
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,812.72
+  Exit Price:     $1,819.92
+  P&L:            $24.92 (+0.40%)
+  Cumulative P&L: $-84.81
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #221
+  Entry Date:     141684
+  Exit Date:      142728
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,819.92
+  Exit Price:     $1,811.37
+  P&L:            $-85.21 (+0.47%)
+  Cumulative P&L: $-170.02
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #222
+  Entry Date:     142728
+  Exit Date:      143424
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,811.37
+  Exit Price:     $1,823.38
+  P&L:            $58.54 (+0.66%)
+  Cumulative P&L: $-111.48
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #223
+  Entry Date:     143424
+  Exit Date:      143703
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,823.38
+  Exit Price:     $1,829.01
+  P&L:            $13.80 (-0.31%)
+  Cumulative P&L: $-97.67
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #224
+  Entry Date:     143703
+  Exit Date:      143792
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,829.01
+  Exit Price:     $1,858.68
+  P&L:            $181.67 (+1.62%)
+  Cumulative P&L: $83.99
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #225
+  Entry Date:     143792
+  Exit Date:      143932
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,858.68
+  Exit Price:     $1,864.35
+  P&L:            $13.59 (-0.31%)
+  Cumulative P&L: $97.58
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #226
+  Entry Date:     143932
+  Exit Date:      144341
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,864.35
+  Exit Price:     $1,904.70
+  P&L:            $255.78 (+2.16%)
+  Cumulative P&L: $353.37
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #227
+  Entry Date:     144341
+  Exit Date:      144548
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,904.70
+  Exit Price:     $1,943.54
+  P&L:            $244.67 (-2.04%)
+  Cumulative P&L: $598.04
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #228
+  Entry Date:     144548
+  Exit Date:      144609
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,943.54
+  Exit Price:     $1,889.35
+  P&L:            $-405.78 (+2.79%)
+  Cumulative P&L: $192.26
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #229
+  Entry Date:     144609
+  Exit Date:      145150
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,889.35
+  Exit Price:     $1,962.58
+  P&L:            $485.13 (+3.88%)
+  Cumulative P&L: $677.39
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #230
+  Entry Date:     145150
+  Exit Date:      145219
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,962.58
+  Exit Price:     $2,002.44
+  P&L:            $250.99 (-2.03%)
+  Cumulative P&L: $928.38
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #231
+  Entry Date:     145294
+  Exit Date:      145329
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $2,009.69
+  Exit Price:     $2,056.70
+  P&L:            $300.28 (-2.34%)
+  Cumulative P&L: $1,228.65
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #232
+  Entry Date:     145979
+  Exit Date:      146638
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,948.19
+  Exit Price:     $1,918.20
+  P&L:            $-236.78 (+1.54%)
+  Cumulative P&L: $991.87
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #233
+  Entry Date:     146638
+  Exit Date:      147561
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,918.20
+  Exit Price:     $1,954.62
+  P&L:            $227.58 (+1.90%)
+  Cumulative P&L: $1,219.44
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #234
+  Entry Date:     147561
+  Exit Date:      147897
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,954.62
+  Exit Price:     $1,994.08
+  P&L:            $248.30 (-2.02%)
+  Cumulative P&L: $1,467.75
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #235
+  Entry Date:     149049
+  Exit Date:      149577
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,901.33
+  Exit Price:     $1,822.60
+  P&L:            $-576.63 (+4.14%)
+  Cumulative P&L: $891.12
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #236
+  Entry Date:     149577
+  Exit Date:      150078
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,822.60
+  Exit Price:     $1,846.40
+  P&L:            $140.75 (+1.31%)
+  Cumulative P&L: $1,031.87
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #237
+  Entry Date:     150078
+  Exit Date:      151572
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,846.40
+  Exit Price:     $1,831.21
+  P&L:            $-131.97 (+0.82%)
+  Cumulative P&L: $899.90
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #238
+  Entry Date:     151572
+  Exit Date:      152198
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,831.21
+  Exit Price:     $1,839.71
+  P&L:            $33.74 (+0.46%)
+  Cumulative P&L: $933.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #239
+  Entry Date:     152198
+  Exit Date:      152288
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,839.71
+  Exit Price:     $1,827.11
+  P&L:            $-113.78 (+0.68%)
+  Cumulative P&L: $819.87
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #240
+  Entry Date:     152288
+  Exit Date:      152838
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,827.11
+  Exit Price:     $1,790.09
+  P&L:            $-284.20 (-2.03%)
+  Cumulative P&L: $535.67
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #241
+  Entry Date:     152859
+  Exit Date:      153026
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,806.38
+  Exit Price:     $1,774.34
+  P&L:            $-249.12 (+1.77%)
+  Cumulative P&L: $286.55
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #242
+  Entry Date:     153026
+  Exit Date:      153122
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,774.34
+  Exit Price:     $1,737.72
+  P&L:            $-280.67 (-2.06%)
+  Cumulative P&L: $5.88
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #243
+  Entry Date:     153796
+  Exit Date:      154314
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,710.31
+  Exit Price:     $1,717.91
+  P&L:            $33.31 (-0.44%)
+  Cumulative P&L: $39.19
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #244
+  Entry Date:     154314
+  Exit Date:      154356
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,717.91
+  Exit Price:     $1,727.16
+  P&L:            $46.37 (+0.54%)
+  Cumulative P&L: $85.56
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #245
+  Entry Date:     154356
+  Exit Date:      154641
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,727.16
+  Exit Price:     $1,762.93
+  P&L:            $257.95 (-2.07%)
+  Cumulative P&L: $343.51
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #246
+  Entry Date:     154886
+  Exit Date:      155061
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,765.48
+  Exit Price:     $1,790.49
+  P&L:            $150.00 (+1.42%)
+  Cumulative P&L: $493.51
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #247
+  Entry Date:     155061
+  Exit Date:      155669
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,790.49
+  Exit Price:     $1,786.89
+  P&L:            $-50.22 (+0.20%)
+  Cumulative P&L: $443.30
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #248
+  Entry Date:     155669
+  Exit Date:      156046
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,786.89
+  Exit Price:     $1,750.01
+  P&L:            $-282.66 (-2.06%)
+  Cumulative P&L: $160.64
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #249
+  Entry Date:     156134
+  Exit Date:      156884
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,733.02
+  Exit Price:     $1,695.63
+  P&L:            $-326.25 (-2.16%)
+  Cumulative P&L: $-165.61
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #250
+  Entry Date:     157103
+  Exit Date:      158335
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,723.96
+  Exit Price:     $1,643.51
+  P&L:            $-669.90 (+4.67%)
+  Cumulative P&L: $-835.51
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #251
+  Entry Date:     158335
+  Exit Date:      158603
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,643.51
+  Exit Price:     $1,652.20
+  P&L:            $43.08 (+0.53%)
+  Cumulative P&L: $-792.43
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #252
+  Entry Date:     158603
+  Exit Date:      158871
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,652.20
+  Exit Price:     $1,686.83
+  P&L:            $250.05 (-2.10%)
+  Cumulative P&L: $-542.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #253
+  Entry Date:     159620
+  Exit Date:      159937
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,671.54
+  Exit Price:     $1,646.01
+  P&L:            $-230.58 (+1.53%)
+  Cumulative P&L: $-772.95
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #254
+  Entry Date:     159937
+  Exit Date:      160411
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,646.01
+  Exit Price:     $1,672.31
+  P&L:            $183.64 (+1.60%)
+  Cumulative P&L: $-589.31
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #255
+  Entry Date:     160411
+  Exit Date:      160589
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,672.31
+  Exit Price:     $1,653.45
+  P&L:            $-177.34 (+1.13%)
+  Cumulative P&L: $-766.64
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #256
+  Entry Date:     160589
+  Exit Date:      160773
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,653.45
+  Exit Price:     $1,649.61
+  P&L:            $-57.11 (-0.23%)
+  Cumulative P&L: $-823.76
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #257
+  Entry Date:     160773
+  Exit Date:      160923
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,649.61
+  Exit Price:     $1,634.39
+  P&L:            $-147.91 (+0.92%)
+  Cumulative P&L: $-971.67
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #258
+  Entry Date:     160923
+  Exit Date:      161040
+  Direction:      LONG
+  Position Size:  8 contracts
+  Entry Price:    $1,634.39
+  Exit Price:     $1,646.92
+  P&L:            $73.89 (+0.77%)
+  Cumulative P&L: $-897.78
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #259
+  Entry Date:     161040
+  Exit Date:      161096
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,646.92
+  Exit Price:     $1,680.64
+  P&L:            $242.87 (-2.05%)
+  Cumulative P&L: $-654.91
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #260
+  Entry Date:     161262
+  Exit Date:      161443
+  Direction:      SHORT
+  Position Size:  8 contracts
+  Entry Price:    $1,706.08
+  Exit Price:     $1,740.89
+  P&L:            $250.63 (-2.04%)
+  Cumulative P&L: $-404.28
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #261
+  Entry Date:     161443
+  Exit Date:      161690
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,740.89
+  Exit Price:     $1,776.84
+  P&L:            $226.77 (-2.07%)
+  Cumulative P&L: $-177.51
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #262
+  Entry Date:     161863
+  Exit Date:      162244
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,762.60
+  Exit Price:     $1,744.25
+  P&L:            $-152.87 (-1.04%)
+  Cumulative P&L: $-330.38
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #263
+  Entry Date:     162244
+  Exit Date:      162740
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,744.25
+  Exit Price:     $1,779.22
+  P&L:            $219.88 (-2.00%)
+  Cumulative P&L: $-110.50
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #264
+  Entry Date:     162792
+  Exit Date:      162838
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,796.46
+  Exit Price:     $1,795.87
+  P&L:            $-29.27 (+0.03%)
+  Cumulative P&L: $-139.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #265
+  Entry Date:     162838
+  Exit Date:      162930
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,795.87
+  Exit Price:     $1,806.84
+  P&L:            $51.49 (+0.61%)
+  Cumulative P&L: $-88.27
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #266
+  Entry Date:     162930
+  Exit Date:      162998
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,806.84
+  Exit Price:     $1,766.68
+  P&L:            $-305.85 (+2.22%)
+  Cumulative P&L: $-394.13
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #267
+  Entry Date:     162998
+  Exit Date:      163526
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,766.68
+  Exit Price:     $1,809.22
+  P&L:            $272.45 (+2.41%)
+  Cumulative P&L: $-121.68
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #268
+  Entry Date:     163526
+  Exit Date:      163667
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,809.22
+  Exit Price:     $1,793.88
+  P&L:            $-132.49 (+0.85%)
+  Cumulative P&L: $-254.17
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #269
+  Entry Date:     163667
+  Exit Date:      164748
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,793.88
+  Exit Price:     $1,845.94
+  P&L:            $338.58 (+2.90%)
+  Cumulative P&L: $84.41
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #270
+  Entry Date:     164748
+  Exit Date:      164891
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,845.94
+  Exit Price:     $1,826.86
+  P&L:            $-159.14 (+1.03%)
+  Cumulative P&L: $-74.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #271
+  Entry Date:     164891
+  Exit Date:      165297
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,826.86
+  Exit Price:     $1,882.36
+  P&L:            $362.15 (+3.04%)
+  Cumulative P&L: $287.42
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #272
+  Entry Date:     165297
+  Exit Date:      165454
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,882.36
+  Exit Price:     $1,921.67
+  P&L:            $248.27 (-2.09%)
+  Cumulative P&L: $535.68
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #273
+  Entry Date:     165554
+  Exit Date:      165849
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,918.37
+  Exit Price:     $1,923.82
+  P&L:            $11.22 (-0.28%)
+  Cumulative P&L: $546.90
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #274
+  Entry Date:     165849
+  Exit Date:      166533
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,923.82
+  Exit Price:     $1,924.71
+  P&L:            $-20.72 (+0.05%)
+  Cumulative P&L: $526.18
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #275
+  Entry Date:     166533
+  Exit Date:      166717
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,924.71
+  Exit Price:     $1,921.42
+  P&L:            $-49.93 (+0.17%)
+  Cumulative P&L: $476.25
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #276
+  Entry Date:     166717
+  Exit Date:      166807
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,921.42
+  Exit Price:     $1,880.91
+  P&L:            $-309.90 (-2.11%)
+  Cumulative P&L: $166.35
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #277
+  Entry Date:     166811
+  Exit Date:      167029
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,875.63
+  Exit Price:     $1,876.68
+  P&L:            $-18.92 (+0.06%)
+  Cumulative P&L: $147.43
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #278
+  Entry Date:     167029
+  Exit Date:      168068
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,876.68
+  Exit Price:     $1,825.80
+  P&L:            $-381.72 (+2.71%)
+  Cumulative P&L: $-234.29
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #279
+  Entry Date:     168068
+  Exit Date:      168366
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,825.80
+  Exit Price:     $1,826.39
+  P&L:            $-21.44 (+0.03%)
+  Cumulative P&L: $-255.73
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #280
+  Entry Date:     168366
+  Exit Date:      169101
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,826.39
+  Exit Price:     $1,864.09
+  P&L:            $237.80 (-2.06%)
+  Cumulative P&L: $-17.93
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #281
+  Entry Date:     169561
+  Exit Date:      169623
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,961.32
+  Exit Price:     $2,006.14
+  P&L:            $285.65 (-2.29%)
+  Cumulative P&L: $267.72
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #282
+  Entry Date:     170098
+  Exit Date:      170196
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,951.78
+  Exit Price:     $1,965.96
+  P&L:            $71.74 (+0.73%)
+  Cumulative P&L: $339.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #283
+  Entry Date:     170196
+  Exit Date:      170243
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,965.96
+  Exit Price:     $1,967.30
+  P&L:            $-18.16 (-0.07%)
+  Cumulative P&L: $321.30
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #284
+  Entry Date:     170243
+  Exit Date:      170662
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,967.30
+  Exit Price:     $2,016.48
+  P&L:            $316.03 (+2.50%)
+  Cumulative P&L: $637.33
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #285
+  Entry Date:     170662
+  Exit Date:      170798
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,016.48
+  Exit Price:     $2,011.41
+  P&L:            $-54.56 (+0.25%)
+  Cumulative P&L: $582.77
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #286
+  Entry Date:     170798
+  Exit Date:      171572
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,011.41
+  Exit Price:     $1,970.36
+  P&L:            $-269.94 (-2.04%)
+  Cumulative P&L: $312.83
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #287
+  Entry Date:     171584
+  Exit Date:      171735
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $1,993.92
+  Exit Price:     $1,989.47
+  P&L:            $-50.57 (+0.22%)
+  Cumulative P&L: $262.25
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #288
+  Entry Date:     171735
+  Exit Date:      172311
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $1,989.47
+  Exit Price:     $1,997.34
+  P&L:            $23.25 (+0.40%)
+  Cumulative P&L: $285.50
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #289
+  Entry Date:     172311
+  Exit Date:      172529
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $1,997.34
+  Exit Price:     $2,039.01
+  P&L:            $225.55 (-2.09%)
+  Cumulative P&L: $511.06
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #290
+  Entry Date:     172740
+  Exit Date:      173300
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,024.29
+  Exit Price:     $2,005.82
+  P&L:            $-134.89 (+0.91%)
+  Cumulative P&L: $376.17
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #291
+  Entry Date:     173300
+  Exit Date:      173510
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,005.82
+  Exit Price:     $1,964.34
+  P&L:            $-272.45 (-2.07%)
+  Cumulative P&L: $103.71
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #292
+  Entry Date:     173515
+  Exit Date:      174412
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,957.81
+  Exit Price:     $1,966.90
+  P&L:            $36.09 (+0.46%)
+  Cumulative P&L: $139.81
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #293
+  Entry Date:     174412
+  Exit Date:      174532
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,966.90
+  Exit Price:     $1,950.18
+  P&L:            $-144.34 (+0.85%)
+  Cumulative P&L: $-4.54
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #294
+  Entry Date:     174532
+  Exit Date:      174882
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,950.18
+  Exit Price:     $1,965.31
+  P&L:            $78.40 (+0.78%)
+  Cumulative P&L: $73.86
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #295
+  Entry Date:     174882
+  Exit Date:      175519
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,965.31
+  Exit Price:     $1,948.37
+  P&L:            $-145.86 (+0.86%)
+  Cumulative P&L: $-72.00
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #296
+  Entry Date:     175519
+  Exit Date:      175720
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,948.37
+  Exit Price:     $1,936.97
+  P&L:            $-106.92 (-0.59%)
+  Cumulative P&L: $-178.91
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #297
+  Entry Date:     175720
+  Exit Date:      177432
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,936.97
+  Exit Price:     $1,976.55
+  P&L:            $249.39 (-2.04%)
+  Cumulative P&L: $70.47
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #298
+  Entry Date:     178074
+  Exit Date:      179173
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,947.14
+  Exit Price:     $1,907.56
+  P&L:            $-303.77 (-2.03%)
+  Cumulative P&L: $-233.29
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #299
+  Entry Date:     179206
+  Exit Date:      179452
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,907.16
+  Exit Price:     $1,901.77
+  P&L:            $-64.35 (-0.28%)
+  Cumulative P&L: $-297.65
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #300
+  Entry Date:     179452
+  Exit Date:      180277
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,901.77
+  Exit Price:     $1,940.61
+  P&L:            $244.71 (-2.04%)
+  Cumulative P&L: $-52.94
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #301
+  Entry Date:     180514
+  Exit Date:      181091
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,945.71
+  Exit Price:     $1,912.43
+  P&L:            $-259.73 (+1.71%)
+  Cumulative P&L: $-312.67
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #302
+  Entry Date:     181091
+  Exit Date:      181783
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,912.43
+  Exit Price:     $1,923.31
+  P&L:            $49.23 (+0.57%)
+  Cumulative P&L: $-263.44
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #303
+  Entry Date:     181783
+  Exit Date:      182078
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,923.31
+  Exit Price:     $1,896.53
+  P&L:            $-214.01 (+1.39%)
+  Cumulative P&L: $-477.45
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #304
+  Entry Date:     182078
+  Exit Date:      182271
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,896.53
+  Exit Price:     $1,873.25
+  P&L:            $-189.19 (-1.23%)
+  Cumulative P&L: $-666.63
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #305
+  Entry Date:     182271
+  Exit Date:      182592
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,873.25
+  Exit Price:     $1,817.62
+  P&L:            $-414.86 (+2.97%)
+  Cumulative P&L: $-1,081.49
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #306
+  Entry Date:     182592
+  Exit Date:      182871
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,817.62
+  Exit Price:     $1,863.23
+  P&L:            $293.18 (+2.51%)
+  Cumulative P&L: $-788.30
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #307
+  Entry Date:     182871
+  Exit Date:      182911
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,863.23
+  Exit Price:     $1,855.66
+  P&L:            $-78.97 (+0.41%)
+  Cumulative P&L: $-867.27
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #308
+  Entry Date:     182911
+  Exit Date:      183013
+  Direction:      LONG
+  Position Size:  7 contracts
+  Entry Price:    $1,855.66
+  Exit Price:     $1,870.26
+  P&L:            $76.02 (+0.79%)
+  Cumulative P&L: $-791.26
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #309
+  Entry Date:     183013
+  Exit Date:      183211
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,870.26
+  Exit Price:     $1,911.11
+  P&L:            $259.19 (-2.18%)
+  Cumulative P&L: $-532.06
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #310
+  Entry Date:     183211
+  Exit Date:      183490
+  Direction:      SHORT
+  Position Size:  7 contracts
+  Entry Price:    $1,911.11
+  Exit Price:     $1,950.51
+  P&L:            $248.49 (-2.06%)
+  Cumulative P&L: $-283.57
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #311
+  Entry Date:     183845
+  Exit Date:      185426
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $1,965.93
+  Exit Price:     $1,984.02
+  P&L:            $84.73 (+0.92%)
+  Cumulative P&L: $-198.84
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #312
+  Entry Date:     185426
+  Exit Date:      186134
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $1,984.02
+  Exit Price:     $2,027.45
+  P&L:            $236.25 (-2.19%)
+  Cumulative P&L: $37.41
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #313
+  Entry Date:     186354
+  Exit Date:      186439
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,042.17
+  Exit Price:     $2,129.79
+  P&L:            $500.16 (-4.29%)
+  Cumulative P&L: $537.57
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #314
+  Entry Date:     186439
+  Exit Date:      186864
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,129.79
+  Exit Price:     $2,023.23
+  P&L:            $-663.64 (+5.00%)
+  Cumulative P&L: $-126.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #315
+  Entry Date:     186864
+  Exit Date:      186899
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,023.23
+  Exit Price:     $2,006.77
+  P&L:            $-122.84 (-0.81%)
+  Cumulative P&L: $-248.91
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #316
+  Entry Date:     186899
+  Exit Date:      186971
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,006.77
+  Exit Price:     $1,978.79
+  P&L:            $-191.63 (+1.39%)
+  Cumulative P&L: $-440.53
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #317
+  Entry Date:     186971
+  Exit Date:      187169
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $1,978.79
+  Exit Price:     $2,023.89
+  P&L:            $246.31 (+2.28%)
+  Cumulative P&L: $-194.22
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #318
+  Entry Date:     187169
+  Exit Date:      187780
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,023.89
+  Exit Price:     $2,065.24
+  P&L:            $223.32 (-2.04%)
+  Cumulative P&L: $29.10
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #319
+  Entry Date:     187829
+  Exit Date:      188572
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,063.38
+  Exit Price:     $2,036.10
+  P&L:            $-188.11 (+1.32%)
+  Cumulative P&L: $-159.01
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #320
+  Entry Date:     188572
+  Exit Date:      188651
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,036.10
+  Exit Price:     $2,034.42
+  P&L:            $-34.49 (-0.08%)
+  Cumulative P&L: $-193.51
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #321
+  Entry Date:     188651
+  Exit Date:      189489
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,034.42
+  Exit Price:     $2,022.77
+  P&L:            $-94.17 (+0.57%)
+  Cumulative P&L: $-287.68
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #322
+  Entry Date:     189489
+  Exit Date:      190463
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,022.77
+  Exit Price:     $2,026.95
+  P&L:            $0.76 (+0.21%)
+  Cumulative P&L: $-286.92
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #323
+  Entry Date:     190463
+  Exit Date:      190718
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,026.95
+  Exit Price:     $2,021.20
+  P&L:            $-58.75 (+0.28%)
+  Cumulative P&L: $-345.68
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #324
+  Entry Date:     190718
+  Exit Date:      190965
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,021.20
+  Exit Price:     $2,022.68
+  P&L:            $-15.39 (+0.07%)
+  Cumulative P&L: $-361.07
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #325
+  Entry Date:     190965
+  Exit Date:      190997
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,022.68
+  Exit Price:     $1,997.72
+  P&L:            $-173.73 (+1.23%)
+  Cumulative P&L: $-534.80
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #326
+  Entry Date:     190997
+  Exit Date:      191717
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $1,997.72
+  Exit Price:     $2,028.52
+  P&L:            $160.46 (+1.54%)
+  Cumulative P&L: $-374.34
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #327
+  Entry Date:     191717
+  Exit Date:      192082
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,028.52
+  Exit Price:     $2,028.81
+  P&L:            $-22.61 (-0.01%)
+  Cumulative P&L: $-396.95
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #328
+  Entry Date:     192082
+  Exit Date:      192198
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,028.81
+  Exit Price:     $2,086.23
+  P&L:            $319.49 (+2.83%)
+  Cumulative P&L: $-77.46
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #329
+  Entry Date:     192198
+  Exit Date:      192362
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,086.23
+  Exit Price:     $2,131.80
+  P&L:            $247.84 (-2.18%)
+  Cumulative P&L: $170.37
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #330
+  Entry Date:     193175
+  Exit Date:      193407
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,155.33
+  Exit Price:     $2,207.97
+  P&L:            $289.34 (-2.44%)
+  Cumulative P&L: $459.72
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #331
+  Entry Date:     193407
+  Exit Date:      193471
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,207.97
+  Exit Price:     $2,176.88
+  P&L:            $-212.66 (+1.41%)
+  Cumulative P&L: $247.06
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #332
+  Entry Date:     193471
+  Exit Date:      193731
+  Direction:      LONG
+  Position Size:  6 contracts
+  Entry Price:    $2,176.88
+  Exit Price:     $2,193.12
+  P&L:            $71.12 (+0.75%)
+  Cumulative P&L: $318.18
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #333
+  Entry Date:     193731
+  Exit Date:      193957
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,193.12
+  Exit Price:     $2,240.27
+  P&L:            $256.02 (-2.15%)
+  Cumulative P&L: $574.19
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #334
+  Entry Date:     194048
+  Exit Date:      194220
+  Direction:      SHORT
+  Position Size:  6 contracts
+  Entry Price:    $2,249.68
+  Exit Price:     $2,294.98
+  P&L:            $244.26 (-2.01%)
+  Cumulative P&L: $818.45
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #335
+  Entry Date:     194773
+  Exit Date:      194849
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,360.99
+  Exit Price:     $2,414.07
+  P&L:            $241.26 (-2.25%)
+  Cumulative P&L: $1,059.71
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #336
+  Entry Date:     194852
+  Exit Date:      194866
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,426.68
+  Exit Price:     $2,345.83
+  P&L:            $-427.71 (+3.33%)
+  Cumulative P&L: $632.01
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #337
+  Entry Date:     194866
+  Exit Date:      194964
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,345.83
+  Exit Price:     $2,386.33
+  P&L:            $178.64 (+1.73%)
+  Cumulative P&L: $810.64
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #338
+  Entry Date:     194964
+  Exit Date:      196958
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,386.33
+  Exit Price:     $2,361.00
+  P&L:            $-150.26 (+1.06%)
+  Cumulative P&L: $660.38
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #339
+  Entry Date:     196958
+  Exit Date:      197121
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,361.00
+  Exit Price:     $2,386.85
+  P&L:            $105.38 (+1.09%)
+  Cumulative P&L: $765.76
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #340
+  Entry Date:     197121
+  Exit Date:      197192
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,386.85
+  Exit Price:     $2,434.60
+  P&L:            $214.40 (-2.00%)
+  Cumulative P&L: $980.17
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #341
+  Entry Date:     197235
+  Exit Date:      197484
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,410.09
+  Exit Price:     $2,359.94
+  P&L:            $-274.35 (-2.08%)
+  Cumulative P&L: $705.82
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #342
+  Entry Date:     198225
+  Exit Date:      198791
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,331.32
+  Exit Price:     $2,340.75
+  P&L:            $23.74 (+0.40%)
+  Cumulative P&L: $729.56
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #343
+  Entry Date:     198791
+  Exit Date:      199431
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,340.75
+  Exit Price:     $2,333.15
+  P&L:            $-61.33 (+0.32%)
+  Cumulative P&L: $668.23
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #344
+  Entry Date:     199431
+  Exit Date:      199778
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,333.15
+  Exit Price:     $2,311.99
+  P&L:            $-128.92 (-0.91%)
+  Cumulative P&L: $539.31
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #345
+  Entry Date:     199778
+  Exit Date:      200118
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,311.99
+  Exit Price:     $2,362.81
+  P&L:            $230.47 (-2.20%)
+  Cumulative P&L: $769.78
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #346
+  Entry Date:     200781
+  Exit Date:      201240
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,410.30
+  Exit Price:     $2,447.04
+  P&L:            $159.23 (+1.52%)
+  Cumulative P&L: $929.01
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #347
+  Entry Date:     201240
+  Exit Date:      201283
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,447.04
+  Exit Price:     $2,433.73
+  P&L:            $-90.89 (+0.54%)
+  Cumulative P&L: $838.12
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #348
+  Entry Date:     201283
+  Exit Date:      201298
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,433.73
+  Exit Price:     $2,453.03
+  P&L:            $71.97 (+0.79%)
+  Cumulative P&L: $910.09
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #349
+  Entry Date:     201298
+  Exit Date:      201478
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,453.03
+  Exit Price:     $2,389.44
+  P&L:            $-341.84 (+2.59%)
+  Cumulative P&L: $568.25
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #350
+  Entry Date:     201478
+  Exit Date:      201931
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,389.44
+  Exit Price:     $2,442.57
+  P&L:            $241.22 (+2.22%)
+  Cumulative P&L: $809.47
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #351
+  Entry Date:     201931
+  Exit Date:      202311
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,442.57
+  Exit Price:     $2,491.54
+  P&L:            $219.93 (-2.00%)
+  Cumulative P&L: $1,029.41
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #352
+  Entry Date:     202311
+  Exit Date:      203358
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,491.54
+  Exit Price:     $2,491.95
+  P&L:            $-22.87 (-0.02%)
+  Cumulative P&L: $1,006.54
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #353
+  Entry Date:     203358
+  Exit Date:      203388
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,491.95
+  Exit Price:     $2,504.91
+  P&L:            $39.75 (+0.52%)
+  Cumulative P&L: $1,046.29
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #354
+  Entry Date:     203388
+  Exit Date:      204072
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,504.91
+  Exit Price:     $2,555.57
+  P&L:            $227.74 (-2.02%)
+  Cumulative P&L: $1,274.03
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #355
+  Entry Date:     204099
+  Exit Date:      204598
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,563.86
+  Exit Price:     $2,615.48
+  P&L:            $231.95 (-2.01%)
+  Cumulative P&L: $1,505.98
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #356
+  Entry Date:     204794
+  Exit Date:      205714
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,644.94
+  Exit Price:     $2,612.40
+  P&L:            $-188.82 (+1.23%)
+  Cumulative P&L: $1,317.16
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #357
+  Entry Date:     205714
+  Exit Date:      205995
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,612.40
+  Exit Price:     $2,660.81
+  P&L:            $215.44 (+1.85%)
+  Cumulative P&L: $1,532.60
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #358
+  Entry Date:     205995
+  Exit Date:      206439
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,660.81
+  Exit Price:     $2,714.44
+  P&L:            $241.01 (-2.02%)
+  Cumulative P&L: $1,773.60
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #359
+  Entry Date:     206579
+  Exit Date:      206724
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,728.34
+  Exit Price:     $2,719.45
+  P&L:            $-71.64 (+0.33%)
+  Cumulative P&L: $1,701.96
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #360
+  Entry Date:     206724
+  Exit Date:      206786
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,719.45
+  Exit Price:     $2,736.64
+  P&L:            $58.58 (+0.63%)
+  Cumulative P&L: $1,760.54
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #361
+  Entry Date:     206786
+  Exit Date:      207275
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,736.64
+  Exit Price:     $2,749.86
+  P&L:            $38.60 (-0.48%)
+  Cumulative P&L: $1,799.14
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #362
+  Entry Date:     207275
+  Exit Date:      207634
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,749.86
+  Exit Price:     $2,682.42
+  P&L:            $-364.02 (-2.45%)
+  Cumulative P&L: $1,435.12
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #363
+  Entry Date:     207729
+  Exit Date:      207916
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,684.51
+  Exit Price:     $2,620.09
+  P&L:            $-348.30 (+2.40%)
+  Cumulative P&L: $1,086.82
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #364
+  Entry Date:     207916
+  Exit Date:      208140
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,620.09
+  Exit Price:     $2,566.99
+  P&L:            $-291.17 (-2.03%)
+  Cumulative P&L: $795.65
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #365
+  Entry Date:     208455
+  Exit Date:      208698
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,634.52
+  Exit Price:     $2,689.16
+  P&L:            $246.31 (-2.07%)
+  Cumulative P&L: $1,041.96
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #366
+  Entry Date:     208791
+  Exit Date:      208851
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,671.51
+  Exit Price:     $2,617.75
+  P&L:            $-294.98 (-2.01%)
+  Cumulative P&L: $746.98
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #367
+  Entry Date:     209220
+  Exit Date:      209608
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,643.95
+  Exit Price:     $2,641.80
+  P&L:            $-37.17 (-0.08%)
+  Cumulative P&L: $709.81
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #368
+  Entry Date:     209608
+  Exit Date:      209859
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,641.80
+  Exit Price:     $2,694.72
+  P&L:            $237.65 (-2.00%)
+  Cumulative P&L: $947.46
+  Exit Reason:    止损
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #369
+  Entry Date:     210470
+  Exit Date:      210782
+  Direction:      LONG
+  Position Size:  5 contracts
+  Entry Price:    $2,596.37
+  Exit Price:     $2,628.50
+  P&L:            $134.37 (+1.24%)
+  Cumulative P&L: $1,081.83
+  Exit Reason:    反向信号
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+Trade #370
+  Entry Date:     210782
+  Exit Date:      211041
+  Direction:      SHORT
+  Position Size:  5 contracts
+  Entry Price:    $2,628.50
+  Exit Price:     $2,605.96
+  P&L:            $-138.76 (+0.86%)
+  Cumulative P&L: $943.07
+  Exit Reason:    强制平仓
+  Duration:       0 days
+----------------------------------------------------------------------------------------------------
+
+
+====================================================================================================
+                                    TRADING STATISTICS SUMMARY
+                                     ====================================================================================================
+
+Win Rate:           50.54%
+Winning Trades:     187
+Losing Trades:      183
+Average Win:        $226.15
+Average Loss:       $-225.94
+Largest Win:        $1,054.13
+Largest Loss:       $-1,075.43
+Profit Factor:      1.00
+Avg Hold Duration:  0.0 days
+
+====================================================================================================
